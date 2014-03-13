@@ -1,5 +1,5 @@
 Budget Visualization Framework
-========
+======== 
 ![screenshot](https://raw.github.com/goinvo/Visual-Town-Budget/develop/docs/img/example_screenshot.png)
 Open-source budget visualization framework.
 
