@@ -4,8 +4,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <title>Arlington Visual Budget</title>
-  <meta name="description" content="An interactive tool to learn more about the town of Arlington, Massachusetts." />
+  <title>Asheville Visual Budget</title>
+  <meta name="description" content="An interactive tool to learn more about the town of Asheville, North Carolina." />
 
  
   <?php
@@ -36,7 +36,7 @@ $(document).ready(initialize);
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-10273473-12', 'arlingtonvisualbudget.org');
+  ga('create', 'UA-10273473-12', 'Ashevillevisualbudget.org');
   ga('send', 'pageview');
 </script>
 
