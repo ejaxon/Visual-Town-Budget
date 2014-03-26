@@ -36,7 +36,7 @@
     <div >
       <h1> AVB Data Upload </h1>
     </div>
-    <form action="update" enctype="multipart/form-data" method="post" class="form-horizontal">
+    <form action="update.php" enctype="multipart/form-data" method="post" class="form-horizontal">
       <div class="control-group">
         <label class="control-label" for="inputEmail">Username</label>
         <div class="controls">
