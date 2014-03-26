@@ -5,8 +5,10 @@ web1: #component type & number
 #  shared_writable_dirs:
 #   - var/cache
   document_root: src/httpdocs
-#  php_version: 5.3.23
-#  php_extensions:
+  php_version: 5.3.23
+  php_extensions:
+  	 - apc
+  	 - session
 #    - mysql
 #    - gd
 #    - eaccelerator
