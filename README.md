@@ -1,9 +1,10 @@
 Budget Visualization Framework
 ======== 
+Asheville Test Server: http://192.184.83.103/
+
 ![screenshot](https://raw.github.com/goinvo/Visual-Town-Budget/develop/docs/img/example_screenshot.png)
 Open-source budget visualization framework.
 
-Asheve Test Server: http://192.184.83.103/
 
 ##Requirements
 * PHP-enabled webserver
