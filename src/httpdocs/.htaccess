@@ -1,5 +1,9 @@
 # Redirect everything in this directory to "good.html"   
 RewriteEngine on 
+RewriteBase /
+
+RewriteRule ^$ /splash/
+
 RewriteRule ^revenues$ index.php?page=revenues
 RewriteRule ^revenues/([0-9]*)$ index.php?page=revenues&year=$1
 RewriteRule ^revenues/([0-9]*)/([^/]*)$ index.php?page=revenues&year=$1&mode=$2
