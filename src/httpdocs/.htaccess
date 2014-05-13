@@ -4,6 +4,8 @@ RewriteBase /
 
 RewriteRule ^$ /splash/
 
+RewriteRule ^home$ index.php
+
 RewriteRule ^revenues$ index.php?page=revenues
 RewriteRule ^revenues/([0-9]*)$ index.php?page=revenues&year=$1
 RewriteRule ^revenues/([0-9]*)/([^/]*)$ index.php?page=revenues&year=$1&mode=$2
