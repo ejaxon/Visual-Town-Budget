@@ -8,6 +8,15 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
 	<style type='text/css'>
+		/*background image*/
+		.background-image{
+			position:fixed;
+			z-index:0;
+		}
+		.header-container, .wrapper.container{
+			z-index: 10;
+			position:relative;
+		}
 		.rounded-border{
 			border: 2px solid white;
 			-webkit-border-radius: 20px;
@@ -53,6 +62,7 @@
 			background: white;
 			color: #7DA8CC;
 		}
+		/*FANCY BUTTONS*/
 		.border-button{
 			padding:10px;
 			border: 2px solid white;
@@ -71,10 +81,33 @@
 			text-decoration: none;
 			background: white;
 			color: #7DA8CC;
-		}	
+		}
+		.arrow-button{
+			background-image: url('images/arrow-button.png');
+			background-position:center right;
+			margin-top: 10px;
+			padding: 10px 20px 10px 10px;
+			display:inline-block;
+			text-decoration: none !important;
+			color: white;
+			/*font-weight:lighter;*/
+			-webkit-transition: all .2s ease-out;
+			-moz-transition: all .2s ease-out;
+			-ms-transition: all .2s ease-out;
+			-o-transition: all .2s ease-out;
+			transition: all .2s ease-out;
+			color: white !important;			
+		}
+		.arrow-button:hover{
+			color: white;
+			margin-left:10px;
+		}
+
+		/*FULL BLEEDS*/
 		.full-bleed{
 			color: white !important;
-			padding: 80px 0px;
+			padding: 30px 0px;
+			position:relative;
 		}
 		.full-bleed1{
 			background: #7DA8CC;
@@ -105,6 +138,17 @@
 			font-size: 1.2em;
 			line-height: 1.5em;
 		}	
+		.full-bleed .section-icon{
+			text-align: right;
+		}
+		.full-bleed .section-icon img{
+			/*margin: auto;*/
+			max-width: 100%;
+		}
+		.full-bleed .link-list li{
+			list-style-type: none;
+			margin-bottom: 5px;
+		}
 		.logo{
 			padding: 20px 0px;
 		}
@@ -130,8 +174,9 @@
 		}
 		.section-header{
 			margin: 0px;
-			text-align: right;
-			font-size: 3em;
+			padding-top: 60px;
+			/*text-align: right;*/
+			font-size: 1.5em;
 			font-weight:lighter;
 			line-height: 1em;
 		}
@@ -195,8 +240,50 @@
 			padding: 0px 10px;
 			border-right: 1px solid #ccc;
 		}
-		div.header-area{
-			text-align: center;
+		.header-area{
+			padding: 150px 0px;
+		}
+		@media (min-width: 1200px){
+			.row.header-area{
+				padding: 175px 0px;
+			}
+			.background-image{
+				top: -100px;
+			}
+		}
+		@media (max-width: 979px) and (min-width: 768px){
+			.row.header-area{
+				padding: 150px 0px;
+			}
+		}
+		@media (max-width:767px){
+			.header-area, .header-area h1{
+				text-align: center !important;
+			}
+		}
+		.header-right a{
+			color: #A4CC56;
+			/*font-size: .8em;*/
+		}
+		.header-right a:hover{
+			text-decoration: none;
+		}
+		.header-right .CTA{
+			display:block;
+		}			
+		.header-area h1{
+			text-align: right;
+			margin-top: 0px;
+			font-weight: lighter;
+			padding: 20px 20px 10px 0px;
+			border-right: 1px solid white;
+		}
+		.header-area h1, .header-area p, .header-area{
+			color: white;
+		}
+		.header-area a{
+			font-size: 1.2em;
+			text-decoration: underline;
 		}
 
 		div.footer-container{
@@ -211,8 +298,9 @@
 		}
 
 		div.header-container{
-			padding-top: 20px;
-			background: #333;
+			/*padding-top: 20px;*/
+			/*background: #333;*/
+			background: rgba(0, 0, 0, .7);
 			width: 100%;
 		}
 
@@ -251,12 +339,24 @@
 			}
 			.section-header{
 				text-align: center;
+				padding-top: 10px;
 			}
-		}
+			.section-icon{
+				text-align: center !important;
+			}
+			.link-list{
+				text-align: center;
+				margin-top: 20px;
+			}
+			.link-list li{
+				display:inline-block;
+			}
+		}	
 	</style>
 
 </head>
 <body>
+	<img src="images/background.jpg" class="background-image" alt="background image" />
 	<div class='header-container'>
 		<div class='container'>
 			<div class="row header-area">		
@@ -266,7 +366,7 @@
 						2014-2015
 					</h1>
 				</div>
-				<div class='promo-icons span6'>
+				<div class='header-right span6'>
 					<p>
 						a collaborative web effort brought to you by:
 					</p>									
@@ -277,62 +377,41 @@
 					<a href="www.ashevillenc.gov">
 						The City of Asheville
 					</a>
+					<div class="CTA">
+						<a href="#" class="arrow-button">
+							How do I get involved?
+						</a>
+					</div>
 				</div>					
-			</div>
-			<!-- <div class='row'>
-				<div class="navigation span12">
-					<ul>
-						<li>
-							<a href="#whatis">Tell Me hat's</a>
-						</li>
-						<li>
-							<a href="#when">When is it?</a>
-						</li>
-						
-						<li>
-							<a href="#who">Who should get involved?</a>
-						</li>
-						<li>
-							<a href="#challenges">Challenges and Prizes</a>
-						</li>
-							
-						<li>
-							<a href="#project_ideas">Project Ideas</a>
-						</li>	
-						<li>
-							<a href="#datasets">Possible Datasets</a>
-						</li>	
-						<li>
-							<a href="http://www.eventbrite.com/event/11198347559?ref=ebtn" target="_blank">
-							  <img border="0" src="http://www.eventbrite.com/custombutton?eid=11198347559" alt="Register for ReRoute AVL" />
-							</a>
-						</li>								
-					</ul>
-				</div>
-			</div> -->			
+			</div>		
 		</div>
 	</div>
 	<div class="wrapper container">	
 	</div>
-		<!-- <div class="span12">
-			<div class="alert alert-success">
-				<a href='https://transit-hackathon.eventbrite.com/' title='Register now!' class="alert-link">
-					All attendees must register for ReRoute AVL on EventBrite - click here! 
-				</a>
-			</div>
-		</div> -->
 	<div class="full-bleed full-bleed1">
 		<div class="wrapper container">
 			<div class="row">	
+				<div class="span2 section-icon offset1">
+					<img src="images/bulb-icon.png" alt="bulb icon" />
+				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis">What is <br> ReRoute AVL?</a>
+						<a name="whatis">Tell Me What's New</a>
 					</h3>
 				</div>
-				<div class="span8">
-					<p>
-						ReRoute AVL is a civic hackathon bringing together transportation organizations and civic­ minded citizens of Asheville to rapidly conceive, design, and prototype multi­modal transportation solution apps. Code for Asheville, as a Code for America Brigade, invites the tech community, government officials, and different advocacy groups to see what data is available, listen to local concerns and ideas, and then create! This is part of the National Day of Civic Hacking, where there will be events around  the country aiming to help solve local problems with technology and volunteer power. 
-					</p>
+				<div class="span5">
+					<ul class="link-list">
+						<li>
+							<a href="#" class="border-button">
+								Understand Budget Priorities &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="#" class="border-button">
+								Explore What's Changed &#8594;
+							</a>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -340,174 +419,96 @@
 	<div class="full-bleed full-bleed2">
 		<div class="wrapper container">
 			<div class="row">	
+				<div class="span2 section-icon offset1">
+					<img src="images/db-icon.png" alt="bulb icon" />
+				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="when">When is it?</a>
+						<a name="whatis">Context and Resources</a>
 					</h3>
-				</div>					
-				<div class="span4">
-					<div class="friday">
-						<div class="date-detail rounded-border">
-							<h4>Friday, May 30th, 6pm - 8pm</h4>
-							<h4>Community Social</h4>
-							<p>Mojo CoWorking, Downtown Asheville</p>
-						</div>
-						<p>
-							No registration is required for this Friday evening of community input. Beer and sticky notes will be provided for sharing, adding to, and voting for ideas for projects that can be prototyped over the the day hackathon the next day.
-						</p>
-						<p>
-							If you've got an idea or are just curious about civic hacking but can't hang out all weekend, this is the event for you. Hackathon participants should come to the reception too but if you can't make it ­­ no worries ­­ just show up for the start of the hackathon Saturday morning. 
-						</p>						
-					</div>
 				</div>
-				<div class='span4'>
-					<div class="saturday">
-						<div class="date-detail rounded-border">
-							<h4>Saturday, May 31st, 8am - 7pm</h4>
-							<h4>Hackathon</h4>
-							<p>Masonic Lodge, Downtown Asheville</p>
-						</div>
-						<p class=''>
-							Masonic Lodge, Asheville, NC. Come at 8am for breakfast, networking and at 9am for team formation. Work stops at 5pm! Lunch and Dinner will also be served to participants. Presentation and awards at 6pm in the main hall. 
-						</p>
-						<a class="border-button" href="http://www.eventbrite.com/event/11198347559?ref=ebtn" target="_blank">
-							I've like to register for ReRoute AVL &#8594;
-						</a>					
-					</div>					
+				<div class="span5">
+					<ul class="link-list">
+						<li>
+							<a href="#" class="border-button">
+								Budget Process &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="#" class="border-button">
+								Backup Documentation &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="#" class="border-button">
+								City Organization &#8594;
+							</a>
+						</li>						
+					</ul>
 				</div>
 			</div>
-		</div>
+		</div>		
 	</div>
 	<div class="full-bleed full-bleed3">
 		<div class="wrapper container">
 			<div class="row">	
-				<div class="span4">		
+				<div class="span2 section-icon offset1">
+					<img src="images/money-icon.png" alt="bulb icon" />
+				</div>
+				<div class="span4">
 					<h3 class="section-header">
-						<a name="who">Who should get involved?</a>
+						<a name="whatis">Show me the Money</a>
 					</h3>
 				</div>
-				<div class="span8">
-					<p>
-						Attention Urbanists, Civic Hackers, Transportation Activists, Government Staff, Developers, Designers... anyone with the passion to make our city better. Join us for full day event to create an app to make transportation work for all of Asheville. Bike, Feet or Bus, bring your insights and team up for competition, all for the greater good.
-					</p>
+				<div class="span5">
+					<ul class="link-list">
+						<li>
+							<a href="#" class="border-button">
+								See how much goes where &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="#" class="border-button">
+								See what's changed over time &#8594;
+							</a>
+						</li>						
+					</ul>
 				</div>
 			</div>
-		</div>
+		</div>		
 	</div>
 	<div class="full-bleed full-bleed4">
 		<div class="wrapper container">
 			<div class="row">	
-				<div class="span4">	
+				<div class="span2 section-icon offset1">
+					<img src="images/pencil-icon.png" alt="bulb icon" />
+				</div>
+				<div class="span4">
 					<h3 class="section-header">
-						<a name="challenges">Challenges and Prizes</a>
+						<a name="whatis">About This App</a>
 					</h3>
 				</div>
-				<div class="span8">
-					<p>
-						Challenges and prizes are currently being determined - check back soon! 
-					</p>
+				<div class="span5">
+					<ul class="link-list">
+						<li>
+							<a href="#" class="border-button">
+								What's this about? &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="#" class="border-button">
+								Next Steps &#8594;
+							</a>
+						</li>						
+						<li>
+							<a href="#" class="border-button">
+								How you can help &#8594;
+							</a>
+						</li>						
+					</ul>
 				</div>
 			</div>
-		</div>
-	</div>
-	<div class="full-bleed full-bleed5">
-		<div class="wrapper container">
-			<div class="row">	
-				<div class="span4">	
-					<h3 class="section-header">
-						<a name="project_ideas">Sample Project Ideas</a>
-					</h3>
-				</div>
-				<div class="span8">
-					<div class='rounded-border ideas'>
-						<h4>
-							Datasets
-						</h4>
-						<ul>
-							<li>
-								<a href="http://codeforasheville.org/hackathon.html">
-									Hack for Food - Last year's event &#8594;
-								</a>
-							<li>
-								<a href='http://hattery.com/reroutesf/'>
-									ReRoute SF - Similar event in San Francisco &#8594;
-								</a>
-							</li>
-							<li>
-								More to come!
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="full-bleed full-bleed6">
-		<div class="wrapper container">
-			<div class="row">	
-				<div class="span4">		
-					<h3 class="section-header">
-						<a name="datasets">Datasets</a>
-					</h3>
-				</div>
-				<div class="span8">
-					<div class="rounded-border datasets">
-						<div class="data1">
-							<h4>
-								Datasets
-							</h4>
-							<ul>
-								<li>
-									<a href='http://opendatacatalog.ashevillenc.gov/'>
-										City of Asheville Open Data Catalog &#8594;
-									</a>
-								</li>
-								<li>
-									<a href='http://hackforchange.org/data/'>
-										Hack for Change Data Sets &#8594;
-									</a>
-								</li>
-							</ul>
-						</div>
-						<div class="data2">
-							<h4>
-								Google APIs:
-							</h4>							
-							<ul>
-								<li>
-									<a href='https://developers.google.com/maps/documentation/elevation/'>
-										Elevation API &#8594;
-									</a>
-								</li>
-								<li>
-									More to come!
-								</li>								
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="full-bleed full-bleed7">
-		<div class="wrapper container">
-			<div class="row">	
-				<div class="span4">		
-					<h3 class="section-header">
-						How to help?
-					</h3>
-				</div>
-				<div class="span8">
-					<p>
-						Get involved Friday night, and bring your ideas and your computer on Saturday!
-						Student groups can apply for scholarships. General Admission is $10 and gets you entrance, swag and the opportunity to do something awesome. 
-					</p>
-					<a class="border-button" href="http://www.eventbrite.com/event/11198347559?ref=ebtn" target="_blank">
-						I'd like to register for ReRoute AVL &#8594;
-					</a>
-				</div>
-			</div>
-		</div>
+		</div>		
 	</div>
 	<div class='footer-container full-bleed'>
 		<div class='container'>
