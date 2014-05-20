@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <title>Budget Differences</title>
+    
+    <style>
+      rect.minus {
+      fill: Tomato;
+      }
+      rect.plus {
+      fill: CornflowerBlue;
+      }
+
+      text.minus {
+      fill: black;
+      font: 10px sans-serif;
+      text-anchor: end;
+      }
+
+      text.plus {
+      fill: black;
+      font: 10px sans-serif;
+      text-anchor: start;
+      }
+
+    </style>
+<!--
+    <style>
+      .chart div rect {
+      font: 10px sans-serif;
+      background-color: steelblue;
+      text-align: right;
+      padding: 3px;
+      margin: 1px;
+      color: white;
+      }
+    </style>
+-->
+  </head>
+
+  <body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="budgetdiff.js"></script>
+
+    <!--  <div class="chart"/>-->
+
+    <br/>
+
+    <style>
+      #budgetDiffContainer {background: gray; width: 1000px; height: 500px; overflow: auto;}
+      .interactionPanel {float: left;}
+      .tt {display: block; }
+    </style>
+
+    <div id="budgetDiffContainer">
+      <div> <em>See What's Changed</em> </div>
+      <div id="mainFlow" class="interactionPanel" style="background-color:DarkKhaki;width:250px;height:475px;border:1px solid #000">
+	<br/>
+      </div> 
+
+      <div class="interactionPanel" style="background-color:Cornsilk;width:650px;height: 475px; border:1px solid #000"><em>Top Ten Budget Differences Compared To Last Year</em><br/>
+	<svg class="chart" id="chart" width="620" height="470">
+	  <!-- 
+	  <circle cx="40" cy="40" r="24" style="stroke:#006600; fill:#00cc00"/>
+	  <g transform="translate(100,100)"> 
+	    <rect class="plus" width="40" height="19" />
+	  </g>
+	  -->
+	</svg>
+      </div>
+
+    <script>
+      <!-- Fund,Department,Division,Account,Amount, -->
+      d3.csv("budgetdiffs.csv", forceAmountType, afterRead);
+    </script>
+  </body>
+</html>
