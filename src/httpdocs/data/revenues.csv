@@ -1,6 +1,6 @@
 LEVEL1,LEVEL2,LEVEL3,TOOLTIP,SOURCE,SOURCE URL,2010,2011,2012,2013,2014,LEVEL
 Workers' Compensation Fund,Finance/Workers Compensation,Charges for Services,,,,0.0,0.0,0.0,0.0,1115000.0,3
-Workers' Compensation Fund,Finance/Workers Compensation,Income from Investments,,,,0.0,0.0,0.0,0.0,10000.0,3
+Workers' Compensation Fund,Finance/Workers Compensation,All Other Revenues,,,,0.0,0.0,0.0,0.0,10000.0,3
 Workers' Compensation Fund,Finance/Workers Compensation Total,,,,,0.0,0.0,0.0,0.0,1125000.0,2
 Workers' Compensation Fund Total,,,,,,0.0,0.0,0.0,0.0,1125000.0,1
 Civic Center Fund,Civic Center/Event Personnel Division,Staff Reimbursement,,,,120591.97,142976.84,125448.9,130000.0,150000.0,3
@@ -9,8 +9,8 @@ Civic Center Fund,Civic Center/Concessions Division,Concessions - Mixed Beverage
 Civic Center Fund,Civic Center/Concessions Division,Commissions - Catering,,,,24466.34,7368.61,5837.12,7000.0,17000.0,3
 Civic Center Fund,Civic Center/Concessions Division,Concessions - Beer & Wine,,,,235686.31,482626.35,255330.63,350000.0,440000.0,3
 Civic Center Fund,Civic Center/Concessions Division,Food Sales,,,,169401.94,210386.36,200884.71,215033.0,373922.0,3
+Civic Center Fund,Civic Center/Concessions Division,All Other Revenues,,,,10969.62,9545.3,5094.69,12000.0,10000.0,3
 Civic Center Fund,Civic Center/Concessions Division,Wrist Band Sales,,,,5774.0,95381.0,37629.0,100000.0,98000.0,3
-Civic Center Fund,Civic Center/Concessions Division,Vending Sales,,,,10969.62,9545.3,5094.69,12000.0,10000.0,3
 Civic Center Fund,Civic Center/Concessions Division,Catering In - House,,,,24652.53,22567.3,16389.78,25000.0,40000.0,3
 Civic Center Fund,Civic Center/Concessions Division,Novelty Sales,,,,48677.5,66598.39,26882.73,50000.0,48000.0,3
 Civic Center Fund,Civic Center/Concessions Division Total,,,,,597889.76,1071400.34,629692.57,909033.0,1201922.0,2
@@ -23,9 +23,8 @@ Civic Center Fund,Civic Center/Civic Center Administration,Rents - Nontaxable Eq
 Civic Center Fund,Civic Center/Civic Center Administration,Rents - Exhibit Space,,,,30675.0,24125.0,20750.0,39860.0,18000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Rents - Auditorium,,,,120781.58,123825.0,125859.94,130000.0,100000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Rents - Buildings and Arena,,,,183454.03,178372.7,112150.0,190000.0,175000.0,3
-Civic Center Fund,Civic Center/Civic Center Administration,All Other Revenues,,,,3750.0,6000.0,4250.0,0.0,13000.0,3
+Civic Center Fund,Civic Center/Civic Center Administration,All Other Revenues,,,,17914.39,13997.529999999999,5490.0,5000.0,15000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Rents - Equipment Rental,,,,91297.59,73461.84,33262.75,75000.0,60000.0,3
-Civic Center Fund,Civic Center/Civic Center Administration,Income from Investments,,,,14164.39,7997.53,1240.0,5000.0,2000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Rents - Facility Fees,,,,119719.98,140081.0,172841.5,140000.0,196000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Civic Center Advertising,,,,-0.0,10000.0,-0.0,-0.0,15000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,2% Capital Maint Fee,,,,68716.04,121798.31,79163.06,90000.0,90000.0,3
@@ -33,7 +32,7 @@ Civic Center Fund,Civic Center/Civic Center Administration,Rent - Avl Symphony,,
 Civic Center Fund,Civic Center/Civic Center Administration,Approp Fund Bal Res for Enc,,,,-0.0,-0.0,-0.0,22178.0,-0.0,3
 Civic Center Fund,Civic Center/Civic Center Administration,Appropriated Fund Balance,,,,-0.0,-0.0,-0.0,-0.0,60000.0,3
 Civic Center Fund,Civic Center/Civic Center Administration Total,,,,,1049838.0,742762.64,1039936.74,1441223.0,1976576.0,2
-Civic Center Fund Total,,,,,,1815160.5300000003,2016252.45,1876108.8699999999,2700256.0,3468498.0,1
+Civic Center Fund Total,,,,,,1815160.5300000003,2016252.4500000002,1876108.8699999999,2700256.0,3468498.0,1
 Street Cut Utility Fund,Public Works/Street Cuts Division,Sales & Serv - Street Patches,,,,-0.0,-0.0,1270685.45,1179123.22,1483814.0,3
 Street Cut Utility Fund,Public Works/Street Cuts Division,Sales & Services - Permit Fees,,,,-0.0,40000.0,54268.65,13740.65,-0.0,3
 Street Cut Utility Fund,Public Works/Street Cuts Division,Sales & Serv - Cap Recov Fee,,,,-0.0,-0.0,216643.42,206633.63,-0.0,3
@@ -65,9 +64,8 @@ Parking Services Fund,Transportation/Parking Garage Divison,Fines & Fees Pkng Ga
 Parking Services Fund,Transportation/Parking Garage Divison,Income from Investments,,,,21075.41,12100.41,16021.88,20000.0,2544.0,3
 Parking Services Fund,Transportation/Parking Garage Divison Total,,,,,1173504.54,1335108.8699999999,1625405.4600000002,2836760.0,2075594.0,2
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Pkng Cit Penalty,,,,405452.67,172804.92,205457.02,475000.0,400000.0,3
-Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Handicap Penalty,,,,10750.0,8376.66,5296.27,12000.0,12000.0,3
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Adjustments,,,,-197430.67,-66430.0,-65820.0,-177678.0,-75000.0,3
-Parking Services Fund,Transportation/Parking Services Division,All Other Revenues,,,,1602.08,2661.13,3666.62,2500.0,2800.0,3
+Parking Services Fund,Transportation/Parking Services Division,All Other Revenues,,,,12352.08,11037.789999999999,8962.89,14500.0,14800.0,3
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Lot 17,,,,-0.0,-0.0,11940.86,30000.0,30000.0,3
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Peripheral Parkng,,,,33126.57,34659.53,40209.83,35000.0,28000.0,3
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Parking Cit Fee,,,,198634.0,168549.28,181314.26,275000.0,200000.0,3
@@ -77,7 +75,7 @@ Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Lot 
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Prkng Lt Fee Mnth,,,,100961.33,90043.48,57626.34,35000.0,36000.0,3
 Parking Services Fund,Transportation/Parking Services Division,Fines & Fees Parking Meters,,,,1002940.4,1051120.76,1103315.94,1075000.0,1239413.0,3
 Parking Services Fund,Transportation/Parking Services Division Total,,,,,1653752.1500000001,1585822.02,1620427.5,1829554.0,1952213.0,2
-Parking Services Fund Total,,,,,,2827256.69,2920930.889999999,3245832.9600000004,4666314.0,4027807.0,1
+Parking Services Fund Total,,,,,,2827256.69,2920930.8899999997,3245832.96,4666314.0,4027807.0,1
 Water Services Fund,Water/Maintenance & Repairs Division,M & R City Water,,,,4956.0,1567.98,-0.0,7500.0,19000.0,3
 Water Services Fund,Water/Maintenance & Repairs Division Total,,,,,4956.0,1567.98,0.0,7500.0,19000.0,2
 Water Services Fund,Water/Water Administration,Delinquent & Interest Fee,,,,855716.11,883144.5,1026503.76,830000.0,912000.0,3
@@ -106,11 +104,11 @@ Stormwater Fund,Public Works/Stormwater Admin Division,Fines & Fees Permit Penal
 Stormwater Fund,Public Works/Stormwater Admin Division,Bldg Permits & Insp Soil Erosn,,,,0.0,171780.83,161470.6,150000.0,160000.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Bldg Permits & Insp Stormwater,,,,0.0,18160.0,12470.0,20000.0,15000.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Installment Purch Proceed,,,,0.0,-0.0,-0.0,-0.0,206000.0,3
+Stormwater Fund,Public Works/Stormwater Admin Division,All Other Revenues,,,,0.0,7106.76,12511.99,11000.0,11000.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Appropriated Fund Balance,,,,0.0,-0.0,-0.0,413079.0,-0.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Approp Fund Bal Res for Enc,,,,0.0,-0.0,-0.0,61541.0,-0.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Utility Charges,,,,0.0,2806462.94,2700621.56,2739723.0,4782372.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Sale of Capital Assets,,,,0.0,-0.0,27502.0,-0.0,20000.0,3
-Stormwater Fund,Public Works/Stormwater Admin Division,Income from Investments,,,,0.0,7106.76,12511.99,11000.0,11000.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division,Delinquent & Interest Fee,,,,0.0,111531.62,56289.85,50000.0,50000.0,3
 Stormwater Fund,Public Works/Stormwater Admin Division Total,,,,,0.0,3138342.15,2991058.0000000005,3475343.0,5261372.0,2
 Stormwater Fund Total,,,,,,0.0,3138342.15,2991058.0000000005,3475343.0,5261372.0,1
@@ -133,6 +131,8 @@ Mass Transit Fund,Transportation/Transit Operations Division,Advertising Revenue
 Mass Transit Fund,Transportation/Transit Operations Division,Bulk Fare Income,,,,14279.62,152403.28,119001.73,130000.0,130000.0,3
 Mass Transit Fund,Transportation/Transit Operations Division Total,,,,,5312533.26,5158442.85,4900385.32,5230563.0,5224651.0,2
 Mass Transit Fund Total,,,,,,5312533.26,5319493.85,5320352.32,5800263.0,6368151.0,1
+General Fund,Planning & Development/Historic Resources Division,All Other Revenues,,,,5557.0,6625.0,9663.58,13425.0,12925.0,3
+General Fund,Planning & Development/Historic Resources Division Total,,,,,5557.0,6625.0,9663.58,13425.0,12925.0,2
 General Fund,Public Works/Sanitation Division,Sanitation Container,,,,104260.03,175091.49,156932.97,180000.0,170000.0,3
 General Fund,Public Works/Sanitation Division,All Other Revenues,,,,5191.04,3253.99,3456.62,2300.0,0.0,3
 General Fund,Public Works/Sanitation Division,TIP fee surcharge,,,,54103.25,54339.51,57343.85,40000.0,50000.0,3
@@ -147,15 +147,8 @@ General Fund,Parks Rec & Cultural Arts/Cultural Arts Division,All Other Revenues
 General Fund,Parks Rec & Cultural Arts/Cultural Arts Division,Souvenirs,,,,-0.0,-0.0,19579.37,20000.0,-0.0,3
 General Fund,Parks Rec & Cultural Arts/Cultural Arts Division,Wrist Band Sales,,,,-0.0,-0.0,41805.37,40000.0,-0.0,3
 General Fund,Parks Rec & Cultural Arts/Cultural Arts Division Total,,,,,0.0,0.0,535345.79,442556.0,0.0,2
-General Fund,Planning & Development/Historic Resources Division,All Other Revenues,,,,5000.0,5000.0,5040.0,5500.0,5000.0,3
-General Fund,Planning & Development/Historic Resources Division,HRC Maj Wks App Fee,,,,557.0,1625.0,4623.58,7925.0,7925.0,3
-General Fund,Planning & Development/Historic Resources Division Total,,,,,5557.0,6625.0,9663.58,13425.0,12925.0,2
-General Fund,Parks Rec & Cultural Arts/Community Program,Admission Fees,,,,-0.0,-0.0,-0.0,-0.0,13000.0,3
 General Fund,Parks Rec & Cultural Arts/Community Program,Rents - Rental Income,,,,-0.0,-0.0,-0.0,-0.0,75001.0,3
-General Fund,Parks Rec & Cultural Arts/Community Program,Class Participation Fees,,,,-0.0,-0.0,-0.0,-0.0,10000.0,3
-General Fund,Parks Rec & Cultural Arts/Community Program,Sponsorships,,,,-0.0,-0.0,-0.0,-0.0,8500.0,3
-General Fund,Parks Rec & Cultural Arts/Community Program,Concessions - Beverages,,,,-0.0,-0.0,-0.0,-0.0,10000.0,3
-General Fund,Parks Rec & Cultural Arts/Community Program,All Other Revenues,,,,0.0,0.0,0.0,0.0,2000.0,3
+General Fund,Parks Rec & Cultural Arts/Community Program,All Other Revenues,,,,0.0,0.0,0.0,0.0,43500.0,3
 General Fund,Parks Rec & Cultural Arts/Community Program Total,,,,,0.0,0.0,0.0,0.0,118501.0,2
 General Fund,Police/Criminal Investigations Div,All Other Revenues,,,,2418.0,2038.0,1882.24,2000.0,2000.0,3
 General Fund,Police/Criminal Investigations Div,Oth Loc Partic City Schools,,,,255124.82,263231.4,196767.6,200000.0,249842.0,3
@@ -184,19 +177,14 @@ General Fund,Finance/Finance Administration Total,,,,,5.936139770999999E7,6.0903
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Admission Fees,,,,19696.0,37447.35,47263.09,26000.0,40000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Cemetary Interment Fees,,,,44450.0,30900.0,33675.0,35000.0,35000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Admission Fees,,,,340958.65,356561.37,403741.34,365000.0,400000.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,All Other Revenues,,,,14248.41,20257.25,22243.66,14800.0,26000.0,3
+General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,All Other Revenues,,,,32050.26,50251.81999999999,38002.25,55800.0,26000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Admission Fees,,,,18560.0,33101.0,40637.0,27000.0,30000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Admission Fees,,,,13020.0,21193.31,25224.55,26000.0,20000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Admission Fees,,,,80579.96,73938.5,74285.77,70000.0,70000.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Concessions - Food & Bev,,,,9801.85,11450.31,2595.29,10000.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Sales and Services,,,,8000.0,8294.47,8470.02,12000.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Rents - Rental Income,,,,-0.0,-0.0,-0.0,9000.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Oper Trans from Cemetery Fund,,,,-0.0,10249.79,4693.28,10000.0,-0.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Grave Sales,,,,-0.0,58975.0,34450.0,20000.0,35000.0,3
 General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div,Souvenirs,,,,74865.5,71070.08,33136.61,10000.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div Total,,,,,624180.37,733438.43,730415.6100000001,634800.0,656000.0,2
-General Fund,Transportation/Transportation Planning Div,All Other Revenues,,,,1501.07,862.0,0.0,0.0,2000.0,3
-General Fund,Transportation/Transportation Planning Div,Restrictd Intergv Otr Loc Part,,,,-0.0,-0.0,-0.0,9000.0,-0.0,3
+General Fund,Parks Rec & Cultural Arts/Specialized Facilities Div Total,,,,,624180.3700000001,733438.4299999999,730415.61,634800.0,656000.0,2
+General Fund,Transportation/Transportation Planning Div,All Other Revenues,,,,1501.07,862.0,0.0,9000.0,2000.0,3
 General Fund,Transportation/Transportation Planning Div Total,,,,,1501.07,862.0,0.0,9000.0,2000.0,2
 General Fund,Planning & Development/Community Development Division,Oper Transfers CDBG Fund,,,,-0.0,13261.72,9717.59,24780.0,-0.0,3
 General Fund,Planning & Development/Community Development Division,Restrictd Intergv County Parti,,,,32000.0,32000.0,32000.0,20000.0,32000.0,3
@@ -205,8 +193,7 @@ General Fund,Planning & Development/Community Development Division Total,,,,,329
 General Fund,Public Works/Public Works Administration,State Powell Bill Proceeds,,,,2125430.63,2147026.12,2277033.19,2277033.0,-0.0,3
 General Fund,Public Works/Public Works Administration,Street Closing Fees,,,,8000.0,16000.0,8000.0,12000.0,8000.0,3
 General Fund,Public Works/Public Works Administration,Oper Transfers from Strm Wtr,,,,-0.0,-0.0,-0.0,18750.0,-0.0,3
-General Fund,Public Works/Public Works Administration,Fines & Fees Encroachment Ag,,,,7400.0,8989.73,13800.0,3000.0,7500.0,3
-General Fund,Public Works/Public Works Administration,All Other Revenues,,,,0.0,0.0,0.0,0.0,2000.0,3
+General Fund,Public Works/Public Works Administration,All Other Revenues,,,,7400.0,8989.73,13800.0,3000.0,9500.0,3
 General Fund,Public Works/Public Works Administration Total,,,,,2140830.63,2172015.85,2298833.19,2310783.0,17500.0,2
 General Fund,Non-Departmental/Inter-Extra Goverment Services,Rents - Holiday Inn Airport,,,,76481.21,42958.56,47135.37,100000.0,75000.0,3
 General Fund,Non-Departmental/Inter-Extra Goverment Services Total,,,,,76481.21,42958.56,47135.37,100000.0,75000.0,2
@@ -224,42 +211,36 @@ General Fund,Police/Police Administration Division,License&Permits Dogs,,,,-0.0,
 General Fund,Police/Police Administration Division,Fines & Fees False Alarms,,,,-0.0,-0.0,-0.0,-0.0,36000.0,3
 General Fund,Police/Police Administration Division,Wrecker Company Fees,,,,-0.0,-0.0,-0.0,-0.0,24000.0,3
 General Fund,Police/Police Administration Division Total,,,,,30511.25,41528.89,19959.91,36500.0,163400.0,2
-General Fund,Transportation/Traffic Engineering Division,Bldg Permits & Insp Driveways,,,,-0.0,-0.0,-400.0,7500.0,-0.0,3
-General Fund,Transportation/Traffic Engineering Division,All Other Revenues,,,,1454.73,2335.65,3565.44,3050.0,0.0,3
-General Fund,Transportation/Traffic Engineering Division,Street Closing Fees,,,,8289.88,5137.5,5625.0,6000.0,6000.0,3
+General Fund,Transportation/Traffic Engineering Division,All Other Revenues,,,,9744.609999999999,7473.15,8790.44,16550.0,6000.0,3
 General Fund,Transportation/Traffic Engineering Division Total,,,,,9744.609999999999,7473.15,8790.44,16550.0,6000.0,2
-General Fund,Parks Rec & Cultural Arts/Parks Maintenance Division,Private Donations,,,,10600.0,5400.0,-0.0,7487.0,-0.0,3
 General Fund,Parks Rec & Cultural Arts/Parks Maintenance Division,Rents - Rental Income,,,,-0.0,13826.5,26798.5,10000.0,15000.0,3
 General Fund,Parks Rec & Cultural Arts/Parks Maintenance Division,Restrictd Intergv County Parti,,,,-0.0,150000.0,127500.0,150000.0,127500.0,3
+General Fund,Parks Rec & Cultural Arts/Parks Maintenance Division,All Other Revenues,,,,10600.0,5400.0,0.0,7487.0,0.0,3
 General Fund,Parks Rec & Cultural Arts/Parks Maintenance Division Total,,,,,10600.0,169226.5,154298.5,167487.0,142500.0,2
-General Fund,Building Safety/Permitting & Inspections Div,Working With Out a Permit,,,,7375.0,8650.0,11400.0,7000.0,-0.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Bldg Permits & Insp Electrical,,,,315488.94,327704.53,322769.89,327773.0,-0.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Bldg Permits & Insp Fees,,,,1083374.94,980376.77,1124565.95,1215933.0,-0.0,3
-General Fund,Building Safety/Permitting & Inspections Div,All Other Revenues,,,,24828.739999999998,23509.0,26079.0,25600.0,12000.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Temporary Occupancy Utilities,,,,65461.0,55470.0,61225.0,65000.0,-0.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Plan Review Fees,,,,205503.38,185697.65,231550.03,220000.0,-0.0,3
-General Fund,Building Safety/Permitting & Inspections Div,ABC Inspection Fees,,,,17550.0,16500.0,17925.0,12000.0,-0.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Sales and Services,,,,16655.0,26158.68,22948.6,18000.0,16000.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Bldg Permits & Insp Mechanical,,,,320047.29,360570.0,316260.5,306627.0,-0.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Lic. & Permits - Permit Fees,,,,-0.0,-0.0,-0.0,-0.0,2472158.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Lic.&Prmt-W/O Permit Violation,,,,-0.0,-0.0,-0.0,-0.0,8000.0,3
-General Fund,Building Safety/Permitting & Inspections Div,Expedite Inspections,,,,1750.0,2800.0,8400.0,2000.0,-0.0,3
+General Fund,Building Safety/Permitting & Inspections Div,Plan Review Fees,,,,205503.38,185697.65,231550.03,220000.0,-0.0,3
+General Fund,Building Safety/Permitting & Inspections Div,Temporary Occupancy Utilities,,,,65461.0,55470.0,61225.0,65000.0,-0.0,3
+General Fund,Building Safety/Permitting & Inspections Div,All Other Revenues,,,,33953.74,34959.0,45879.0,34600.0,20000.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Chrgs for Serv-Plan Review Fee,,,,-0.0,-0.0,-0.0,-0.0,400000.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Lic. & Prmts - Inspection Fees,,,,-0.0,-0.0,-0.0,-0.0,20000.0,3
 General Fund,Building Safety/Permitting & Inspections Div,Bldg Permits & Insp Plumbing,,,,124720.6,154500.0,135200.0,132167.0,-0.0,3
+General Fund,Building Safety/Permitting & Inspections Div,ABC Inspection Fees,,,,17550.0,16500.0,17925.0,12000.0,-0.0,3
+General Fund,Building Safety/Permitting & Inspections Div,Sales and Services,,,,16655.0,26158.68,22948.6,18000.0,16000.0,3
+General Fund,Building Safety/Permitting & Inspections Div,Bldg Permits & Insp Mechanical,,,,320047.29,360570.0,316260.5,306627.0,-0.0,3
 General Fund,Building Safety/Permitting & Inspections Div Total,,,,,2182754.89,2141936.63,2278323.9699999997,2332100.0,2928158.0,2
-General Fund,Police/Police Support Division,All Other Revenues,,,,6474.7,8972.75,1093.79,7400.0,0.0,3
+General Fund,Police/Police Support Division,All Other Revenues,,,,14406.11,9564.75,4363.539999999999,8400.0,0.0,3
 General Fund,Police/Police Support Division,Wrecker Company Fees,,,,25333.33,24991.18,22995.94,28000.0,-0.0,3
 General Fund,Police/Police Support Division,License&Permits Dogs,,,,36768.7,30994.5,39004.5,30000.0,-0.0,3
 General Fund,Police/Police Support Division,Fines & Fees False Alarms,,,,7845.0,39970.0,57491.5,30000.0,-0.0,3
-General Fund,Police/Police Support Division,Fines & Fees Animal Control Vi,,,,7931.41,592.0,3269.75,1000.0,-0.0,3
 General Fund,Police/Police Support Division Total,,,,,84353.14,105520.43,123855.48,96400.0,0.0,2
 General Fund,Administration Services/City Hall Operations,All Other Revenues,,,,2400.0,2450.0,2750.0,3000.0,0.0,3
 General Fund,Administration Services/City Hall Operations Total,,,,,2400.0,2450.0,2750.0,3000.0,0.0,2
 General Fund,Finance/Accounting Division,State Util Franchise Tax,,,,7315397.24,7096584.09,6938508.09,7200000.0,7068000.0,3
 General Fund,Finance/Accounting Division,Other Miscellaneous Revenue,,,,12239.41,7847.4,23064.04,-0.0,85000.0,3
 General Fund,Finance/Accounting Division,Motor Vehicles Licenses,,,,302448.65,300715.26,312874.95,310000.0,320000.0,3
-General Fund,Finance/Accounting Division,All Other Revenues,,,,8733.1,6381.16,10162.34,8700.0,9200.0,3
+General Fund,Finance/Accounting Division,All Other Revenues,,,,29826.309999999998,29618.41,32144.589999999997,30700.0,31200.0,3
 General Fund,Finance/Accounting Division,State Beer & Wine Taxes,,,,113234.98,352472.21,363888.1,360000.0,365000.0,3
 General Fund,Finance/Accounting Division,Income from Investments,,,,263903.69,63755.15,142546.49,225000.0,150000.0,3
 General Fund,Finance/Accounting Division,Local Util Fran Tax-CPL,,,,415921.0,393421.01,393421.01,395000.0,395000.0,3
@@ -267,8 +248,6 @@ General Fund,Finance/Accounting Division,Heavy Equipment Rental Tax,,,,-0.0,-0.0
 General Fund,Finance/Accounting Division,Vehicle Rental Tax,,,,388714.94,403391.92,321986.42,400000.0,171000.0,3
 General Fund,Finance/Accounting Division,General Business Priv Lic,,,,709536.7,1711389.37,1435370.83,1700000.0,1586202.0,3
 General Fund,Finance/Accounting Division,Local Util Fran Fee-Gas,,,,68605.72,63229.01,59702.54,65000.0,65000.0,3
-General Fund,Finance/Accounting Division,License&Permits Beer & Wine,,,,9571.75,12695.0,10643.35,10000.0,10000.0,3
-General Fund,Finance/Accounting Division,Fines & Fees Return Check Chg,,,,11521.46,10542.25,11338.9,12000.0,12000.0,3
 General Fund,Finance/Accounting Division Total,,,,,9619828.64,1.042242383E7,1.012389708E7,1.06857E7,1.0336402E7,2
 General Fund,Police/Patrol Division,Restricted Intergov Fed Grants,,,,11467.5,-0.0,-0.0,237086.0,241800.0,3
 General Fund,Police/Patrol Division,All Other Revenues,,,,100.0,264.16,7040.0,0.0,5000.0,3
@@ -290,23 +269,18 @@ General Fund,Fire & Rescue/Fire Support Services Division,Haz-Mat Protection Cha
 General Fund,Fire & Rescue/Fire Support Services Division,Loc Opt Sales Tx Fire District,,,,68165.04,81019.77,84615.13,85000.0,85000.0,3
 General Fund,Fire & Rescue/Fire Support Services Division,Fire Protection Biltmore Fst,,,,736775.03,563210.28,751200.15,750000.0,-0.0,3
 General Fund,Fire & Rescue/Fire Support Services Division Total,,,,,1352808.29,1228746.28,1488058.23,1848877.0,1052289.0,2
-General Fund,Planning & Development/Planning Services Division,Charges for Services-CDBG/HOME,,,,-0.0,-0.0,-0.0,-0.0,14000.0,3
-General Fund,Planning & Development/Planning Services Division,All Other Revenues,,,,4376.2300000000005,4776.0,5039.5,6050.0,5250.0,3
-General Fund,Planning & Development/Planning Services Division,License&Permits Street Vendors,,,,7028.0,9296.0,11725.0,10000.0,10000.0,3
+General Fund,Planning & Development/Planning Services Division,All Other Revenues,,,,29579.23,41680.6,47756.5,37550.0,33250.0,3
 General Fund,Planning & Development/Planning Services Division,General Business Priv Lic,,,,-0.0,218500.0,-0.0,205000.0,-0.0,3
-General Fund,Planning & Development/Planning Services Division,Charges to Other Funds,,,,4800.0,13750.0,13992.0,14000.0,-0.0,3
-General Fund,Planning & Development/Planning Services Division,Board of Adjustments,,,,8950.0,10800.0,5850.0,4000.0,4000.0,3
 General Fund,Planning & Development/Planning Services Division,Sales and Services,,,,67873.8,77330.3,97197.5,90000.0,-0.0,3
 General Fund,Planning & Development/Planning Services Division,License&Permits Sign Permit,,,,34977.08,59116.69,63126.39,62000.0,62000.0,3
 General Fund,Planning & Development/Planning Services Division,Rents - Rental Income,,,,154319.93,120230.47,127336.16,141000.0,141000.0,3
-General Fund,Planning & Development/Planning Services Division,Fines & Fees Zoning Citations,,,,4425.0,3058.6,11150.0,3500.0,-0.0,3
 General Fund,Planning & Development/Planning Services Division Total,,,,,286750.04,516858.05999999994,335416.55000000005,535550.0,236250.0,2
 General Fund,Information Technology/Technical Services Division,Rents - Tower Rental,,,,52203.21,43297.06,176281.31,50000.0,100000.0,3
-General Fund,Information Technology/Technical Services Division,Radios-Outside Agencies,,,,9165.8,7145.66,10938.84,8460.0,12400.0,3
 General Fund,Information Technology/Technical Services Division,Rents - Fiber Franchise,,,,-0.0,26562.44,4249.92,4250.0,4250.0,3
+General Fund,Information Technology/Technical Services Division,All Other Revenues,,,,9165.8,7145.66,10938.84,8460.0,12400.0,3
 General Fund,Information Technology/Technical Services Division Total,,,,,61369.009999999995,77005.16,191470.07,62710.0,116650.0,2
-General Fund,Administration Services/Fleet Management Division,Rents - Rental Income,,,,9438.45,12994.71,10664.78,8000.0,11000.0,3
 General Fund,Administration Services/Fleet Management Division,External CNG Sales,,,,9278.69,39713.21,27857.82,45000.0,45000.0,3
+General Fund,Administration Services/Fleet Management Division,All Other Revenues,,,,9438.45,12994.71,10664.78,8000.0,11000.0,3
 General Fund,Administration Services/Fleet Management Division Total,,,,,18717.14,52707.92,38522.6,53000.0,56000.0,2
 General Fund,Non-Departmental/Non-Divisional,Charges for Services,,,,-0.0,-0.0,-0.0,-0.0,1629120.0,3
 General Fund,Non-Departmental/Non-Divisional,Oper Transfers Parking Service,,,,-0.0,-0.0,-0.0,120000.0,-0.0,3
@@ -319,28 +293,19 @@ General Fund,Finance/Budget Division,Charges to Other Funds,,,,2676753.0,2499821
 General Fund,Finance/Budget Division Total,,,,,2676753.0,2499821.0,2349404.0,4935809.0,3857824.0,2
 General Fund,Information Technology/GIS Appl Services Division,Bldg Permits & Insp Technology,,,,-0.0,-0.0,-0.0,16100.0,17050.0,3
 General Fund,Information Technology/GIS Appl Services Division Total,,,,,0.0,0.0,0.0,16100.0,17050.0,2
-General Fund,Information Technology/IT Support Services Division,Installment Purch Proceed,,,,-0.0,-0.0,-0.0,350000.0,-0.0,3
-General Fund,Information Technology/IT Support Services Division Total,,,,,0.0,0.0,0.0,350000.0,0.0,2
 General Fund,Parks Rec & Cultural Arts/Recreation Division,Rents - Parks Shelters,,,,18335.0,22843.5,14288.75,25000.0,15000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,All Other Revenues,,,,8762.9,18122.9,24214.58,27500.0,30725.0,3
+General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,13710.25,14524.5,16708.47,18000.0,3000.0,3
+General Fund,Parks Rec & Cultural Arts/Recreation Division,All Other Revenues,,,,20218.4,57901.06,91153.09,77284.0,74725.0,3
+General Fund,Parks Rec & Cultural Arts/Recreation Division,Child Care Fees,,,,-0.0,167036.58,229640.86,180000.0,180000.0,3
 General Fund,Parks Rec & Cultural Arts/Recreation Division,Admission Fees,,,,-0.0,-0.0,42638.0,100000.0,100000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Rents - Rental Income,,,,-0.0,3275.0,11915.0,700.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,3455.5,6090.95,7726.51,7000.0,8000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,4350.0,8968.0,10457.0,8000.0,10000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Rents - Rental Income,,,,-0.0,-200.0,-0.0,8000.0,8000.0,3
+General Fund,Parks Rec & Cultural Arts/Recreation Division,Restricted Intergov Fed Grants,,,,-0.0,16304.91,14998.7,15000.0,5000.0,3
 General Fund,Parks Rec & Cultural Arts/Recreation Division,Admission Fees,,,,27460.0,31837.5,31182.45,26000.0,30000.0,3
 General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,12704.0,32695.0,21557.0,35000.0,30000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Rents - Parks Shelters,,,,-0.0,11250.0,5610.0,3000.0,3000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Oth Loc Partic Group Applicat,,,,-0.0,-0.0,-0.0,9000.0,7000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,13710.25,14524.5,16708.47,18000.0,3000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Child Care Fees,,,,-0.0,167036.58,229640.86,180000.0,180000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Restrictd Intergv State Grants,,,,-0.0,-0.0,12205.0,3917.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Class Participation Fees,,,,3650.0,10394.21,6820.0,6250.0,8000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Restricted Intergov Fed Grants,,,,-0.0,16304.91,14998.7,15000.0,5000.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division,Restrictd Intergv State Grants,,,,-0.0,-0.0,12205.0,3917.0,-0.0,3
-General Fund,Parks Rec & Cultural Arts/Recreation Division Total,,,,,92427.65,343143.05,462167.32,476284.0,437725.0,2
+General Fund,Parks Rec & Cultural Arts/Recreation Division Total,,,,,92427.65,343143.04999999993,462167.32,476284.0,437725.0,2
+General Fund,Information Technology/IT Support Services Division,Installment Purch Proceed,,,,-0.0,-0.0,-0.0,350000.0,-0.0,3
+General Fund,Information Technology/IT Support Services Division Total,,,,,0.0,0.0,0.0,350000.0,0.0,2
 General Fund,Human Resources/Organizational Development,All Other Revenues,,,,0.0,0.0,0.0,0.0,7000.0,3
 General Fund,Human Resources/Organizational Development,Restrictd Intergv County Parti,,,,23750.0,23750.0,23750.0,23750.0,23750.0,3
 General Fund,Human Resources/Organizational Development Total,,,,,23750.0,23750.0,23750.0,23750.0,30750.0,2
-General Fund Total,,,,,,8.022636126999997E7,8.372956937E7,8.637156885E7,9.3489142E7,9.9547954E7,1
-REVENUES TOTAL,,,,,,1.2171484444999993E8,1.3010564522000003E8,1.3470306113E8,1.4617991932999998E8,1.72411137E8,0
+General Fund Total,,,,,,8.022636126999998E7,8.372956937E7,8.637156885E7,9.3489142E7,9.9547954E7,1
+REVENUES TOTAL,,,,,,1.2171484444999996E8,1.3010564522000004E8,1.3470306113E8,1.4617991932999998E8,1.72411137E8,0
