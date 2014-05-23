@@ -7,10 +7,10 @@ RewriteRule ^$ /splash/
 RewriteRule ^home$ index.php
 
 
-RewriteRule ^next-steps$ resources/nextsteps.html
-RewriteRule ^about$ resources/about.html
-RewriteRule ^how-to-help$ resources/howtohelp.html
-RewriteRule ^message$ resources/message.html
+RewriteRule ^next-steps$ resources/nextsteps.php
+RewriteRule ^about$ resources/about.php
+RewriteRule ^how-to-help$ resources/howtohelp.php
+RewriteRule ^message$ resources/message.php
 
 RewriteRule ^revenues$ index.php?page=revenues
 RewriteRule ^revenues/([0-9]*)$ index.php?page=revenues&year=$1
