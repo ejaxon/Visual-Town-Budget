@@ -11,20 +11,23 @@
     
     <style>
     /*BASE STYLES*/
-      .border-button{
+    .border-button{
+      color: white;
+      padding:10px;
+      border: 2px solid white;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px; 
+      display:inline-block;
+      background: rgba(0, 0, 0, .2);
+      -webkit-transition: all .2s ease-out;
+      -moz-transition: all .2s ease-out;
+      -ms-transition: all .2s ease-out;
+      -o-transition: all .2s ease-out;
+      transition: all .2s ease-out;           
+      }
+      .border-button:hover{
         color: white;
-        padding:10px;
-        border: 2px solid white;
-        -webkit-border-radius: 5px;
-        -moz-border-radius: 5px;
-        border-radius: 5px; 
-        display:inline-block;
-        background: rgba(0, 0, 0, .2);
-        -webkit-transition: all .2s ease-out;
-        -moz-transition: all .2s ease-out;
-        -ms-transition: all .2s ease-out;
-        -o-transition: all .2s ease-out;
-        transition: all .2s ease-out;           
       }
       text {
       font: 10px sans-serif;
@@ -49,13 +52,14 @@
       text-anchor: start;
       }
       .slider{
-        margin-top: -100px;
+        /*margin-top: -100px;*/
         position:relative;
         z-index:1;
       }
       .slides li{
         /*min-height: 500px;*/
         position:relative;
+        max-height: 600px;
       }
       .slides li .container{
         position:relative !important;
