@@ -4,7 +4,7 @@
     <div class="container">
         <div class="hero-unit">
             <div id="welcome-hero">
-                <h1>See your town's budget.</h1>
+                <h1>See your city's budget.</h1>
 
                 <div class="home-column" id="home-col1" style=
                 "display:inline-block;">

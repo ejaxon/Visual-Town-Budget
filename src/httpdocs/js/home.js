@@ -47,7 +47,7 @@ avb.home = function () {
         position: 'right'
     }, {
         selector: '#chart-wrap',
-        text: 'Explore how the town revenues changed over time.',
+        text: 'Explore how the city revenues changed over time.',
         position: 'right'
     }, {
         selector: '#navigation',

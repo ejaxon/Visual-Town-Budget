@@ -2,9 +2,9 @@
 RewriteEngine on 
 RewriteBase /
 
-#RewriteRule ^$ /splash/
+RewriteRule ^$ /splash/
 
-#RewriteRule ^home$ index.php
+RewriteRule ^home$ index.php
 
 RewriteRule ^revenues$ index.php?page=revenues
 RewriteRule ^revenues/([0-9]*)$ index.php?page=revenues&year=$1

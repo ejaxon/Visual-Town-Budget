@@ -88,7 +88,8 @@ function initialize(){
         node : urlComponents[3]
     }
     avb.navbar.initialize();
-    if(params.section === undefined || params.section === "") {
+    console.log(params);
+    if(params.section === undefined || params.section === "" || params.section === "home") {
         avb.home.initialize();
         avb.home.show();
     } else if($.inArray(params.section, avb.sections) > -1){
