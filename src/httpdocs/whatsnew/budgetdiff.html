@@ -38,17 +38,22 @@
 	Classes of dynamically created elements.
 
       -->
-  </head>
+    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+    <link href="flexslider/flexslider.css" rel="stylesheet">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
 
-  <body>
+    <script src="flexslider/jquery.flexslider-min.js"></script>
+
+
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="budgetdiff.js"></script>
 
     <br/>
 
     <style>
-      #budgetDiffContainer {background: gray; width: 1000px; height: 625px; overflow: auto;}
-      .interactionPanel {float: left;}
+      #budgetDiffContainer {}
+      .interactionPanel {}
 
       #budgetDiffInstruction {
       font: 14px sans-serif;
@@ -58,22 +63,60 @@
       #budgetDiffContext {
       font: 14px sans-serif;      
       }
-    </style>
+    </style>    
 
-    <div id="budgetDiffContainer">
-      <div> <em>See What's Changed</em> </div>
-      <div id="mainFlow" class="interactionPanel" style="background-color:DarkKhaki;width:990px;height:125px;border:1px solid #000">
-	<br/>
-      </div> 
+  </head>
 
-      <div class="interactionPanel" style="background-color:Cornsilk;width:990px;height: 475px; border:1px solid #000"><em>Top Ten Budget Differences Compared To Last Year</em><br/>
-	<svg class="chart" id="chart" width="920" height="470">
-	</svg>
+  <body>
+  <div class="slider">
+      <div class="flexslider carousel">
+        <ul class="slides">
+          <li>
+            <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          </li>
+          <li>
+            <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          </li>
+        </ul>
       </div>
-
-    <script>
+    </div>    
+    <div class="container wrapper">
+      <div class="row">
+        <div class="span6">
+          <div class="well">
+            <div>
+              <h3>See What's Changed</h3>
+            </div>
+            <div id="mainFlow" class="interactionPanel" style="">
+            </div> 
+          </div>          
+        </div>
+        <div class="interactionPanel span6" style="">
+          <h3>Top Ten Budget Differences Compared To Last Year</h3>
+    	    <svg class="chart" id="chart" width="500" height="470"></svg>
+        </div>
+      </div>
+    </div>
+        <script>
       <!-- Fund,Department,Division,Account,Amount, -->
       d3.csv("budgetdiffs.csv", forceAmountType, afterRead);
     </script>
   </body>
+
+<!-- SLIDER -->
+<script type="text/javascript">
+$('document').ready(function(){
+  $('.flexslider').flexslider({
+    animation: "slide",
+    animationLoop: false,
+    // itemWidth: 210,
+    // itemMargin: 5,
+    pausePlay: true,
+    start: function(slider){
+      $('body').removeClass('loading');
+    }
+  });
+});
+</script>
+
 </html>
