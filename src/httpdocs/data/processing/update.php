@@ -52,7 +52,7 @@
       <div class="control-group">
         <label class="control-label" for="inputPassword">File</label>
         <div class="controls file">
-          <input type="hidden" name="MAX_FILE_SIZE" value="100000" />
+          <input type="hidden" name="MAX_FILE_SIZE" value="300000" />
           <input id="upload-file" name="file" type="file" />
         </div>
       </div>
@@ -87,6 +87,8 @@
           printSuccess($filename." updated.");
         } else {
           // script failed, print error message
+        echo '<div class="alert alert-error" style="max-width:600px;">Seems to be a problem.</div>';
+
           printError($output[0]);
         }
 

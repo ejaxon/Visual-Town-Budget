@@ -10,6 +10,10 @@
     <title>Budget Differences</title>
     
     <style>
+      text {
+      font: 10px sans-serif;
+      }
+
       rect.minus {
       fill: Tomato;
       }
@@ -30,48 +34,40 @@
       }
 
     </style>
-<!--
-    <style>
-      .chart div rect {
-      font: 10px sans-serif;
-      background-color: steelblue;
-      text-align: right;
-      padding: 3px;
-      margin: 1px;
-      color: white;
-      }
-    </style>
--->
+    <!--
+	Classes of dynamically created elements.
+
+      -->
   </head>
 
   <body>
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="budgetdiff.js"></script>
 
-    <!--  <div class="chart"/>-->
-
     <br/>
 
     <style>
-      #budgetDiffContainer {background: gray; width: 1000px; height: 500px; overflow: auto;}
+      #budgetDiffContainer {background: gray; width: 1000px; height: 625px; overflow: auto;}
       .interactionPanel {float: left;}
-      .tt {display: block; }
+
+      #budgetDiffInstruction {
+      font: 14px sans-serif;
+      }
+      #budgetDiffPicker { clear: right; font: 12px sans-serif;}
+
+      #budgetDiffContext {
+      font: 14px sans-serif;      
+      }
     </style>
 
     <div id="budgetDiffContainer">
       <div> <em>See What's Changed</em> </div>
-      <div id="mainFlow" class="interactionPanel" style="background-color:DarkKhaki;width:250px;height:475px;border:1px solid #000">
+      <div id="mainFlow" class="interactionPanel" style="background-color:DarkKhaki;width:990px;height:125px;border:1px solid #000">
 	<br/>
       </div> 
 
-      <div class="interactionPanel" style="background-color:Cornsilk;width:650px;height: 475px; border:1px solid #000"><em>Top Ten Budget Differences Compared To Last Year</em><br/>
-	<svg class="chart" id="chart" width="620" height="470">
-	  <!-- 
-	  <circle cx="40" cy="40" r="24" style="stroke:#006600; fill:#00cc00"/>
-	  <g transform="translate(100,100)"> 
-	    <rect class="plus" width="40" height="19" />
-	  </g>
-	  -->
+      <div class="interactionPanel" style="background-color:Cornsilk;width:990px;height: 475px; border:1px solid #000"><em>Top Ten Budget Differences Compared To Last Year</em><br/>
+	<svg class="chart" id="chart" width="920" height="470">
 	</svg>
       </div>
 
