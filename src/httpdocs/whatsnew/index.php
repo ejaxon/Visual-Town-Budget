@@ -70,7 +70,7 @@
       <div class="span3">
         <div class="well">
           <div>
-            <h3>See What's Changed</h3>
+            <h3>What's Changed</h3>
           </div>
           <div id="mainFlow" class="interactionPanel" style="">
           </div> 
