@@ -5,6 +5,7 @@ var hierarchyNames = ["Fund", "Department", "Division", "Account"];
 var accountToggle = false;
 var valueCutOff = 0.;
 var currentSelection = "";
+var accountType = 1; // 0 = revenue, 1 = expense
 
 function getSelection (prune) {
     var hTag, i;
@@ -105,21 +106,41 @@ function setUpState() {
 
 	var names = {};
 
+	var revenues = 0;
+	var expenses = 0;
+	var rejected = 0;
 	for (var i=0; i<currentData.length; ++i) { // Pull out and aggregate
 	    var object = {}
-	    if (names[currentData[i][mapTag]] == undefined) {
-		object.name = currentData[i][mapTag];
-		object.Amount = 0.00;
-		object.Current = 0.0;
-		names[currentData[i][mapTag]] = object;
+
+	    var takeIt = true;
+	    if (currentData[i].Revenue) {
+		++revenues;
+		if (accountType == 1) takeIt = false;
+		++rejected;
 	    }
 	    else {
-		object = names[currentData[i][mapTag]];
+		++expenses;
+		if (accountType == 0) takeIt = false;
+		++rejected;
 	    }
-	    object.Amount += currentData[i].Amount;
-	    object.Current += currentData[i].Current;
+	    if (takeIt) {
+		if (names[currentData[i][mapTag]] == undefined) {
+		    object.name = currentData[i][mapTag];
+		    object.Amount = 0.00;
+		    object.Current = 0.0;
+		    names[currentData[i][mapTag]] = object;
+		}
+		else {
+		    object = names[currentData[i][mapTag]];
+		}
+		object.Amount += currentData[i].Amount;
+		object.Current += currentData[i].Current;
+	    }
+	    else {
+		++rejected;
+	    }
 	}
-
+//	alert("Rejected " + rejected + ", Revs " + revenues + ", Exps " + expenses);
 	// Now pull out into an array
 	var dataArray = [];
 	var j = 0;
@@ -150,8 +171,6 @@ function setUpState() {
 
 	var offset = -minValue;
 	var scale  = (width - 2*xborder)/(maxValue - minValue); 
-
-
 
 	if (dataArray.length > 10) dataArray = dataArray.slice(0,10);
 	for (var i=0; i<dataArray.length; ++i) {
@@ -309,15 +328,20 @@ function buttonClick(instruction) {
     setUpState();
 }
 
-
 function forceAmountType(d) {
     d.Amount = +d.Amount; // coerce to number
     d.Current = +d.Current;
+
+    if (d.Revenue == "true") // coerce to boolean
+	d.Revenue = true;
+    else
+	d.Revenue = false;
     return d;
 }
 
 function afterRead (error, data) {
     diffData = data;
+
     currentState = "select";
     currentLevel = 0;
 
