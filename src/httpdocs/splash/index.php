@@ -109,9 +109,9 @@
 				      </a>
 				    </li>
 				    <li>
-				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactive visualization<br/>
+				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactive budget allocation visualization<br/>
 				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See how much goes where <br/>
-				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See what's changed over time<br/>
+				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See changes over time<br/>
 				    </li>						
 				  </ul>
 				</div>
@@ -138,9 +138,9 @@
 						</li>
 						<li>
 						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Budget process<br/>
-						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backup documentation<br/>
 						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;City organization<br/>
-						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And much, much, more<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backup documentation<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And much, much more<br/>
 						</li>						
 					</ul>
 				</div>
@@ -161,7 +161,7 @@
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-							<a href="about" class="">
+							<a href="/about" class="">
 								What's this about? &#8594;
 							</a>
 						</li>
