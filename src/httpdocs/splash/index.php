@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Asheville, NC Budget App | A Code for Asheville Creation</title>
-	<meta name='description' content='ReRoute AVL is a civic hackathon bringing together transportation organizations and civic­ minded citizens of Asheville to rapidly conceive, design, and prototype multi­modal transportation solution apps.'>
+	<meta name='description' content='This website is a collaboration between Code for Asheville and the City of Asheville to improve citizens' ability to view, engage and discuss the city budget.'>
 	<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -28,11 +28,11 @@
 					<p>
 						a collaborative web effort brought to you by:
 					</p>									
-					<a href="www.codeforasheville.org">
+					<a href="http://www.codeforasheville.org" target="_blank">
 						Code for Asheville
 					</a>
 					<span>&</span>
-					<a href="www.ashevillenc.gov">
+					<a href="http://www.ashevillenc.gov" target="_blank">
 						The City of Asheville
 					</a>
 					<div class="CTA">
