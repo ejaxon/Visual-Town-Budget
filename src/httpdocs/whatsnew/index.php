@@ -45,12 +45,17 @@
           <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Stormwater Service Improvements</h2>
+                <h2>City Council Budget Goals For 2014-2015</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed diam turpis. Phasellus accumsan auctor augue, ac scelerisque
+		  <ul>
+		    <li>Employee compensation &amp; managed savings</li>
+		    <li>Police strategic plan</li>
+		    <li>Asheville redefines transit</li>
+		    <li>Graffiti initiative</li>
+		  </ul>
                 </p>
                 <a href="#" class="border-button">
-                  City Manager Explanation
+                  Read more about budget goals
                 </a>
               </div>
             </div>
@@ -59,12 +64,17 @@
           <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Another Slide</h2>
+                <h2>Revenue Highlights</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed diam turpis. Phasellus accumsan auctor augue, ac scelerisque
+		  <ul>
+		    <li>Property tax rate to stay at 46&cent; with a projected revenue increase of 0.9%</li>
+		    <li>Sales tax revenue projected to increase 3.4%</li>
+		    <li>License &amp; permit revenues to increase 10%</li>
+		    <li>Planned fund balance appropriation of $2.0 million</li>
+		  </ul>
                 </p>
                 <a href="#" class="border-button">
-                  City Manager Explanation
+		  Read revenue highlight details
                 </a>
               </div>
             </div>
