@@ -9,6 +9,22 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
 	<link href="/css/splash.css" rel="stylesheet">
+
+	<SCRIPT TYPE="text/javascript">
+	  <!--
+	      function popup(mylink, windowname)
+	      {
+	      if (! window.focus)return true;
+	      var href;
+	      if (typeof(mylink) == 'string')
+	      href=mylink;
+	      else
+	      href=mylink.href;
+	      window.open(href, windowname, 'width=500,height=300,scrollbars=yes');
+	      return false;
+	      }
+	      //-->
+	</SCRIPT>
 </head>
 <body>
 	<img src="../img/background.jpg" class="background-image" alt="background image" />
@@ -36,8 +52,8 @@
 						The City of Asheville
 					</a>
 					<div class="CTA">
-						<a href="revenues" class="arrow-button">
-							See the App!
+						<a href="/getinvolved.html" class="arrow-button" onclick="return popup(this, 'Getting Involved')">
+							How Do I Get Involved?
 						</a>
 					</div>
 				</div>					
