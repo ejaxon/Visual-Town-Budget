@@ -20,6 +20,24 @@
   </li>
   <li class="dropdown">
     <a class="dropdown-toggle" href="/resources/message.php">
+      <img src="../img/money-icon.png" alt='bulb icon'/>
+      Show me the Money &#8595;
+    </a>
+    <ul class="dropdown-menu">
+      <li>
+        <a href="#">
+          See how much goes where
+        </a>
+      </li>
+      <li>
+        <a href="/whatsnew">
+          See what's changed over time
+        </a>
+      </li>           
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" href="/resources/message.php">
       <img src="../img/db-icon.png" alt='bulb icon'/>
       Context and Resources 
       &#8595;
@@ -40,24 +58,6 @@
           City Organization
         </a>
       </li>            
-    </ul>
-  </li>
-  <li class="dropdown">
-    <a class="dropdown-toggle" href="/resources/message.php">
-      <img src="../img/money-icon.png" alt='bulb icon'/>
-      Show me the Money &#8595;
-    </a>
-    <ul class="dropdown-menu">
-      <li>
-        <a href="#">
-          See how much goes where
-        </a>
-      </li>
-      <li>
-        <a href="/whatsnew">
-          See what's changed over time
-        </a>
-      </li>           
     </ul>
   </li>
   <li class="dropdown">

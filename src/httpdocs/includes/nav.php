@@ -36,6 +36,23 @@
   </li>
   <li class="dropdown">
     <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">
+      Show me the Money <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li>
+        <a href="#">
+          See how much goes where
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          See what's changed over time
+        </a>
+      </li>           
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">
       Context and Resources <span class="caret"></span>
     </a>
     <ul class="dropdown-menu">
@@ -54,23 +71,6 @@
           City Organization
         </a>
       </li>            
-    </ul>
-  </li>
-  <li class="dropdown">
-    <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">
-      Show me the Money <span class="caret"></span>
-    </a>
-    <ul class="dropdown-menu">
-      <li>
-        <a href="#">
-          See how much goes where
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          See what's changed over time
-        </a>
-      </li>           
     </ul>
   </li>
   <li class="dropdown">
