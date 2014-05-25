@@ -78,6 +78,34 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
+					<img src="../img/money-icon.png" alt="bulb icon" />
+				</div>
+				<div class="span4">
+					<h3 class="section-header">
+						<a name="whatis">Show me the Money</a>
+					</h3>
+				</div>
+				<div class="span5">
+					<ul class="link-list">
+						<li>
+							<a href="expenses" class="">
+								See how much goes where &#8594;
+							</a>
+						</li>
+						<li>
+							<a href="whatsnew" class="">
+								See what's changed over time &#8594;
+							</a>
+						</li>						
+					</ul>
+				</div>
+			</div>
+		</div>		
+	</div>
+	<div class="full-bleed full-bleed3">
+		<div class="wrapper container">
+			<div class="row">	
+				<div class="span2 section-icon offset1">
 					<img src="../img/db-icon.png" alt="bulb icon" />
 				</div>
 				<div class="span4">
@@ -100,34 +128,6 @@
 						<li>
 							<a href="#" class="" style='color: red'>
 								City Organization &#8594;
-							</a>
-						</li>						
-					</ul>
-				</div>
-			</div>
-		</div>		
-	</div>
-	<div class="full-bleed full-bleed3">
-		<div class="wrapper container">
-			<div class="row">	
-				<div class="span2 section-icon offset1">
-					<img src="../img/money-icon.png" alt="bulb icon" />
-				</div>
-				<div class="span4">
-					<h3 class="section-header">
-						<a name="whatis">Show me the Money</a>
-					</h3>
-				</div>
-				<div class="span5">
-					<ul class="link-list">
-						<li>
-							<a href="expenses" class="">
-								See how much goes where &#8594;
-							</a>
-						</li>
-						<li>
-							<a href="whatsnew" class="">
-								See what's changed over time &#8594;
 							</a>
 						</li>						
 					</ul>
