@@ -336,12 +336,17 @@ avb.table = function () {
             if (previous === 0) {
                 perc = 0;
             } else {
-                perc = 100;
+                perc = -100;
             }
         } else {
             // non-edge case
             // growth calculation
-            perc = Math.round(100 * 100 * (data.values[yearIndex].val - previous) / data.values[yearIndex].val) / 100;
+	    if (previous == 0) {
+		perc = 100;
+	    }
+            else {
+		perc = Math.round(100 * 100 * (data.values[yearIndex].val - previous) / previous) / 100;
+	    }
         }
 
         // change color depending of growth magnitude and direction
