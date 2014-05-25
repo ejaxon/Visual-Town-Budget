@@ -122,29 +122,25 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-					<img src="../img/db-icon.png" alt="bulb icon" />
+				  <a href="/resources/resources.php"> <img src="../img/db-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
-					<h3 class="section-header">
-						<a name="whatis">Context and Resources</a>
-					</h3>
+				  <h3 class="section-header">
+				    <a name="whatis" href="/resources/resources.php">Resources</a>
+				  </h3>
 				</div>
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-							<a href="#" class="" style='color: red'>
-								Budget Process &#8594;
+							<a href="/resources/resources.php" class="">
+							  The Gory Details &#8594;
 							</a>
 						</li>
 						<li>
-							<a href="#" class="" style='color: red'>
-								Backup Documentation &#8594;
-							</a>
-						</li>
-						<li>
-							<a href="#" class="" style='color: red'>
-								City Organization &#8594;
-							</a>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Budget process<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backup documentation<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;City organization<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And much, much, more<br/>
 						</li>						
 					</ul>
 				</div>

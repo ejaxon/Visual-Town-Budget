@@ -71,6 +71,10 @@
   background: #A58A6A;
 }
 
+.other .square, .other .header{
+  background: #41A7BF;
+}
+
 .message .square, 
 .message .header,
 .whatsnew .square, 
