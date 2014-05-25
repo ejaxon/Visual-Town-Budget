@@ -22,7 +22,6 @@
 	  <td>
 	    <div class="span5">
 	      <h2>Budget Process</h2>
-	      <h4>Budget Preparation Overview</h4>
 	      <p>Budget preparation affords departments the opportunity to reassess their goals and objectives and the strategies for accomplishing them.  Even though the proposed budget is presented City Council in May and adopted in June, its preparation begins at least six months prior with projections of City revenues, expenditures, and overall financial capacity. </p>
 	      <p>
 		<a href="/resources/process.php">Read more</a> about:
@@ -49,8 +48,7 @@
 		    Basis of Budgeting
 		  </li>
 		</ul>
-
-</p>
+	      </p>
 	    </div>
 	  </td>
 	  <td align="left">
@@ -69,16 +67,43 @@
 	</tr>
 	<tr valign="top">
 	  <td>
-	    <h1>Budget Structure</h1>
-	    <p>
-	      This site is a collaborative volunteer
-	    </p>
+	    <div class="span5">
+	      <h2>Budget Structure</h2>
+	      <p>
+		The accounts of the City of Asheville are organized and operated on the basis of funds.  A fund is a fiscal and accounting entity with a self-balancing set of accounts comprised of assets, liabilities, fund equity, revenues, and expenses as appropriate.  Fund accounting segregates funds according to their intended purpose and is used to aid management in demonstrating compliance with finance-related legal and contractual provisions. 
+	      </p>
+	      <p>
+		<a href="/resources/process.php">Read more</a> about:
+		<ul>
+		  <li>
+		    Fund Accounting
+		  </li>
+		  <li>
+		    General Fund
+		  </li>
+		  <li>
+		    Enterprise Funds
+		  </li>
+		  <li>
+		    Capital Funds
+		  </li>
+		  <li>
+		    How Funds Interact
+		  </li>
+		  <li>
+		    Departments &amp; Divisions
+		  </li>
+		</ul>
+	      </p>
+	    </div>
 	  </td>
 	  <td>
-	    <h1>Organizational Structure</h1>
-	    <p>
-	      This site is a collaborative volunteer
-	    </p>
+	    <div class="span5">
+	      <h1>Organizational Structure</h1>
+	      <p>
+		This site is a collaborative volunteer
+	      </p>
+	    </div>
 	  </td>
 	</tr>
 	<tr valign="top">
