@@ -48,7 +48,9 @@ avb.thisYear = avb.currentYear;
 // amount of yearly taxes spent by user
 avb.userContribution = null;
 // available data sections
-avb.sections = ['revenues', 'expenses', 'funds'];
+avb.sections = ['revenues', 'expenses'];
+// Arlington version:
+//avb.sections = ['revenues', 'expenses', 'funds'];
 // available modes (treemap, table..)
 avb.modes = 
 {

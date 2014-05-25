@@ -9,8 +9,9 @@
 
  
   <?php
-    $dataSections = array('revenues', 'expenses', 'funds');
-    require_once 'includes/imports.php';
+     //$dataSections = array('revenues', 'expenses', 'funds');
+     $dataSections = array('revenues', 'expenses');
+     require_once 'includes/imports.php';
   ?>
 
 <script>
