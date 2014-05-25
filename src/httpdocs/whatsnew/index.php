@@ -3,17 +3,24 @@
 <head>
   <meta charset="utf-8">
   <title>Asheville, NC Budget App | A Code for Asheville Creation</title>
-  <meta name='description' content='ReRoute AVL is a civic hackathon bringing together transportation organizations and civic­ minded citizens of Asheville to rapidly conceive, design, and prototype multi­modal transportation solution apps.'>
+  <meta name='description' content='Government budgets can be tough to understand, but now the City of Asheville, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage, and discuss.'>
   <?php include '../includes/template_elements/resources.php'; ?>
   
   <!-- PAGE SPECIFIC CSS -->
   <link rel="stylesheet" href="flexslider/flexslider.css">
   <style>
     rect.plus{
-      fill:green;
+      fill: CornflowerBlue;
     }
     rect.minus{
-      fill:red;
+      fill: Tomato;
+    }
+    .labelText{
+      font-weight:bold;
+      text-align: center; 
+    }
+    #categorySelector{
+      vertical-align:top;
     }
   </style>
   <!-- END PAGE SPECIFIC CSS -->
@@ -67,22 +74,37 @@
   </div>    
   <div class="container wrapper">
     <div class="row">
-      <div class="span3">
+<!--      <div class="span3"> -->
+      <div class="row">
         <div class="well">
           <div>
-            <h3>What's Changed</h3>
+            <h3>Explore What's Changed - Top 10 Budget Differences Compared To Last Year</h3>
           </div>
           <div id="mainFlow" class="interactionPanel" style="">
-	    <p>
+	    <br/>
+	    <p style="margin:0 0 0 0;">
+	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+
+	      <span id="selectText" class="labelText">Select Fund:</span><span>&nbsp;&nbsp;</span>
+	      <select id="categorySelector" onchange="buttonClick('next')">
+		<option>Dog</option>
+	      </select>
+	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 	      <input id="radio1" type="radio" checked name="showRev" value="true" onclick="showRevHandler()">&nbsp;Revenues &nbsp;&nbsp;
 	      <input id="radio2" type="radio" name="showRev" value="false" onclick="showRevHandler()"> &nbsp; Expenses
+	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+	      <input id="viewBySelector" style="vertical-align:middle; float:right;" type="button" value="View By Account" onclick="buttonClick('account')"/>
+	    </p>
+	    <p style="margin:0 0 0 0;">
+	      <input id="startOver" style="vertical-align:middle; float:right;" type="button" value="Start Over" onclick="buttonClick('reset')"/>
 	    </p>
           </div> 
         </div>          
       </div>
-      <div class="interactionPanel span9" style="">
-        <h3>Top Ten Budget Differences Compared To Last Year</h3>
-        <svg class="chart" id="chart" width="700" height="470"></svg>
+      <div class="interactionPanel span12" style="">
+        <h4 id="contextText" align="center">TBD</h4>
+        <svg class="chart span12" id="chart" width="700" height="470"></svg>
       </div>
     </div>
   </div>

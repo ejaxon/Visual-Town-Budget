@@ -66,6 +66,7 @@ function getSelection (prune) {
 
 function setUpState() {
     var pane = document.getElementById("mainFlow");
+    var element;
     if (pane != undefined) {
 	if (baseChildCount < 0) baseChildCount = pane.childNodes.length; // Initialize the first time here.
 
@@ -76,22 +77,19 @@ function setUpState() {
 
 	// Now construct the new pane
 	if (currentState == "select") { // User is selecting which data to look at
-	    var element = document.createElement("EM");
-	    element.setAttribute("class", "budgetDiffUI");
-	    element.setAttribute("id", "budgetDiffInstruction");
-	    element.appendChild(document.createTextNode("Select " + hierarchyNames[currentLevel] + ":\u00a0\u00a0\u00a0\u00a0"));
-	    pane.appendChild(element);
+	    element = document.getElementById("selectText");
+	    element.innerHTML= "Select " + hierarchyNames[currentLevel] + ":"
 
-	    var selector = document.createElement("SELECT");
-	    selector.setAttribute("id", "budgetDiffPicker")
-	    selector.setAttribute("class", "budgetDiffUI");
-	    selector.setAttribute("onchange", "buttonClick(\"next\")");
+	    // Reset the drop-down menu
+	    element = document.getElementById("categorySelector");
+	    while (element.length > 0) {
+		element.remove(element.length-1);
+	    }
 	    for (var j=0; j<pickList.length; ++j) {
 		var defSelected = false;
 		if (j==0) defSelected = true;
-		selector.add(new Option(pickList[j], pickList[j], defSelected, defSelected));
+		element.add(new Option(pickList[j], pickList[j], defSelected, defSelected));
 	    }
-	    pane.appendChild(selector);
 	}
 
 	// Construct an array of objects with the values to be graphed
@@ -137,7 +135,7 @@ function setUpState() {
 		++rejected;
 	    }
 	}
-	//alert("showRev = " + showRevenue + ",  Rejected " + rejected + ", Revs " + revenues + ", Exps " + expenses);
+
 	// Now pull out into an array
 	var dataArray = [];
 	var j = 0;
@@ -156,8 +154,6 @@ function setUpState() {
 	}
 	if (minValue > 0.0) minValue = 0.0;
 	if (maxValue < 0.0) maxValue = 0.0;
-	var doit = false;
-	if (dataArray.length < 5) doit = true;
 
 	// Compute offset and scale factor to map to screen coordinates
 	var svgChart = document.getElementById("chart");
@@ -213,13 +209,13 @@ function setUpState() {
 
 		var dollars = document.createElementNS("http://www.w3.org/2000/svg", "text");
 		dollars.setAttribute("x", 5);
-		dollars.setAttribute("y", "12");
+		dollars.setAttribute("y", "15");
 		g.setAttribute("transform", "translate("+dataArray[i].x1+"," + dataArray[i].y + ")");
 		if (dataArray[i].Amount < 0.) {
 		    dollars.textContent = "-$" + numberWithCommas(Math.abs(Math.round(dataArray[i].Amount)));
-		    text.setAttribute("x", dataArray[i].width-5);
+		    //text.setAttribute("x", dataArray[i].width-5);
 		    text.setAttribute("class", "minus");
-		    dollars.setAttribute("x", dataArray[i].width-5);
+		    //dollars.setAttribute("x", dataArray[i].width-5);
 		    dollars.setAttribute("class", "minus");
 		    rect.setAttribute("class", "minus");
 		}
@@ -240,49 +236,27 @@ function setUpState() {
 	    }
 
 	    if (currentLevel < maxLevel) {
-		var element = document.createElement("EM");
-		element.setAttribute("class", "budgetDiffUI");
-		element.setAttribute("id", "budgetDiffInstruction");
-		element.appendChild(document.createTextNode("\u00a0\u00a0\u00a0\u00a0 OR \u00a0\u00a0\u00a0\u00a0"));
-		pane.appendChild(element);
-		var button = document.createElement("INPUT");
-		button.setAttribute("class", "tt");
-		button.setAttribute("type", "button");
-		var txt = "View by " + (accountToggle?hierarchyNames[currentLevel]:"Account");
-		button.setAttribute("value", txt);
-		button.setAttribute("onClick", "buttonClick(\"account\")");
-		pane.appendChild(button);
+		element = document.getElementById("viewBySelector");
+		element.value = "View by " + (accountToggle?hierarchyNames[currentLevel]:"Account");
 	    }
 	}
 	else { // No data
 	    var text = document.createElementNS("http://www.w3.org/2000/svg", "text");
-	    text.setClass("chart");
 	    text.textContent = "There are no non-zero budget differences here";
 	    text.setAttribute("x", xborder);
 	    text.setAttribute("y", yborder + height/3);
 	    svgChart.appendChild(text);
 	}
 		
-	if (currentLevel > 0) {
-	    var button = document.createElement("INPUT");
-	    pane.appendChild(document.createTextNode("\u00a0\u00a0\u00a0\u00a0 OR \u00a0\u00a0\u00a0\u00a0"));
-	    button.setAttribute("class", "budgetDiffUI");
-	    button.setAttribute("type", "button");
-	    button.setAttribute("value", "Start Over");
-	    button.setAttribute("onClick", "buttonClick(\"reset\")");
-	    pane.appendChild(button);
-	    var element = document.createElement("BR");
-	    pane.appendChild(element);
-	}
+	var button = document.getElementById("startOver");
+	button.style.visibility = (currentLevel > 0)?"visible":"hidden";
     }
 
     // The context
-    pane.appendChild(document.createElement("BR"));
-    var label = document.createElement("EM");
-    label.setAttribute("id", "budgetDiffContext");
-    label.textContent = " Current Context: Top " + currentSelection;
-    pane.appendChild(label);
-
+    element = document.getElementById("contextText");
+    var context = (currentLevel == 0)?"All":currentSelection;
+    context += accountToggle?" (By Account)":" (By " + hierarchyNames[currentLevel]+")";
+    element.innerHTML= context;
 }
 
 function numberWithCommas(x) {
@@ -300,7 +274,8 @@ function reverseAbsCompare (a, b) { // reverse sort
 }
 
 function buttonClick(instruction) {
-    var selector = document.getElementById("budgetDiffPicker");
+//    var selector = document.getElementById("budgetDiffPicker");
+    var selector = document.getElementById("categorySelector");
     if (instruction == "reset") {
 	currentState = "select";
 	currentLevel = 0;
@@ -317,14 +292,17 @@ function buttonClick(instruction) {
 	    getSelection(selector.options[selector.selectedIndex].value)
 	}
 	else {
+	    if (currentLevel > 0) currentSelection += " : ";
 	    ++currentLevel;
-	    currentSelection += " : " +  selector.options[selector.selectedIndex].value;
+	    currentSelection += selector.options[selector.selectedIndex].value;
 	    getSelection(selector.options[selector.selectedIndex].value)
 	}
+
     }
     else if (instruction == "account") {
 	accountToggle = !accountToggle;
     }
+
     setUpState();
 }
 
