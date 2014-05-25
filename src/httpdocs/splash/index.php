@@ -94,11 +94,11 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-					<img src="../img/money-icon.png" alt="bulb icon" />
+				  <a href="expenses"><img src="../img/money-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
-					<h3 class="section-header">
-						<a name="whatis">Show Me the Money</a>
+				  <h3 class="section-header">
+				    <a href="expenses" >Show Me the Money</a>
 					</h3>
 				</div>
 				<div class="span5">
