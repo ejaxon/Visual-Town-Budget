@@ -73,6 +73,10 @@
             <h3>What's Changed</h3>
           </div>
           <div id="mainFlow" class="interactionPanel" style="">
+	    <p>
+	      <input id="radio1" type="radio" checked name="showRev" value="true" onclick="showRevHandler()">&nbsp;Revenues &nbsp;&nbsp;
+	      <input id="radio2" type="radio" name="showRev" value="false" onclick="showRevHandler()"> &nbsp; Expenses
+	    </p>
           </div> 
         </div>          
       </div>

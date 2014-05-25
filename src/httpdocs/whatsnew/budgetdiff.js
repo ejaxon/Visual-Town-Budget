@@ -5,7 +5,7 @@ var hierarchyNames = ["Fund", "Department", "Division", "Account"];
 var accountToggle = false;
 var valueCutOff = 0.;
 var currentSelection = "";
-var accountType = 1; // 0 = revenue, 1 = expense
+var showRevenue = true; 
 
 function getSelection (prune) {
     var hTag, i;
@@ -92,7 +92,6 @@ function setUpState() {
 		selector.add(new Option(pickList[j], pickList[j], defSelected, defSelected));
 	    }
 	    pane.appendChild(selector);
-
 	}
 
 	// Construct an array of objects with the values to be graphed
@@ -115,13 +114,11 @@ function setUpState() {
 	    var takeIt = true;
 	    if (currentData[i].Revenue) {
 		++revenues;
-		if (accountType == 1) takeIt = false;
-		++rejected;
+		if (!showRevenue) takeIt = false;
 	    }
 	    else {
 		++expenses;
-		if (accountType == 0) takeIt = false;
-		++rejected;
+		if (showRevenue) takeIt = false;
 	    }
 	    if (takeIt) {
 		if (names[currentData[i][mapTag]] == undefined) {
@@ -140,7 +137,7 @@ function setUpState() {
 		++rejected;
 	    }
 	}
-//	alert("Rejected " + rejected + ", Revs " + revenues + ", Exps " + expenses);
+	//alert("showRev = " + showRevenue + ",  Rejected " + rejected + ", Revs " + revenues + ", Exps " + expenses);
 	// Now pull out into an array
 	var dataArray = [];
 	var j = 0;
@@ -278,11 +275,14 @@ function setUpState() {
 	    pane.appendChild(element);
 	}
     }
+
+    // The context
     pane.appendChild(document.createElement("BR"));
     var label = document.createElement("EM");
     label.setAttribute("id", "budgetDiffContext");
     label.textContent = " Current Context: Top " + currentSelection;
     pane.appendChild(label);
+
 }
 
 function numberWithCommas(x) {
@@ -325,6 +325,18 @@ function buttonClick(instruction) {
     else if (instruction == "account") {
 	accountToggle = !accountToggle;
     }
+    setUpState();
+}
+
+function showRevHandler() {
+    var radio1 = document.getElementById("radio1");
+    var radio2 = document.getElementById("radio2");
+    if (radio1.checked == true)
+	showRevenue = true;
+    else if (radio2.checked == true) 
+	showRevenue = false;
+    else
+	alert("I don't know what is going on");
     setUpState();
 }
 
