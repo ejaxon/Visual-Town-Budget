@@ -17,6 +17,7 @@
     </div>
     <div class="wrapper container">	
       <h1>Resources</h1>
+      <p>You can download the full Asheville 2014-2015 Proposed Budget <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf">here</a>.</p>
       <table border="5" cellspacing="5px" cellpadding="10px">
 	<tr valign="top">
 	  <td>
