@@ -155,11 +155,11 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-					<img src="../img/pencil-icon.png" alt="bulb icon" />
+				  <a href="about"><img src="../img/pencil-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis">About This App</a>
+						<a name="whatis" href="about">About This App</a>
 					</h3>
 				</div>
 				<div class="span5">
@@ -170,15 +170,10 @@
 							</a>
 						</li>
 						<li>
-							<a href="next-steps" class="">
-								Next Steps &#8594;
-							</a>
-						</li>						
-						<li>
-							<a href="how-to-help" class="">
-								How you can help &#8594;
-							</a>
-						</li>						
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why are you doing this?<br/>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What happens next?<br/>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can I participate?<br/>
+						</li>
 					</ul>
 				</div>
 			</div>
