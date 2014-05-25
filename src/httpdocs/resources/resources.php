@@ -99,24 +99,35 @@
 	  </td>
 	  <td>
 	    <div class="span5">
-	      <h1>Organizational Structure</h1>
-	      <p>
-		This site is a collaborative volunteer
-	      </p>
+	      <h2>Organizational Structure</h2>
+	      <div class="span4">
+		<img src="../img/2014OrgChart.png"  alt="Asheville city org chart image" />
+	      </div>
+	      <div class="span3">
+		<p>
+		  Full-size image <a href="../img/2014OrgChart.png">here</a>.
+		</p>
+	      </div>
 	    </div>
 	  </td>
 	</tr>
 	<tr valign="top">
 	  <td>
-	    <h1>Manager's Message</h1>
+	    <h2>City Manager's Message</h2>
 	    <p>
-	      This site is a collaborative volunteer
+	      May 27, 2014
+	    </p>
+	    <p>
+	      Honorable Mayor Manheimer and City Council Members:
+	    </p>
+	    <p>
+	      The City of Asheville is beginning to see steady improvement over the effects of the global economic crisis which has driven many budgetary and operational decisions over the last few years. While the economic outlook is improving, staff continues to work on reengineering and managed cost savings with an eye toward long-term structural sustainability and a continued high level of service. The 2014-2015 proposed budget for operations is primarily a continuation budget; there are few operational changes from the previous year. <a href="/resources/process.php">Read more</a>
 	    </p>
 	  </td>
 	  <td>
-	    <h1>Financial Policies</h1>
+	    <h2>Financial Policies</h2>
 	    <p>
-	      
+The City of Asheville financial policies establish general guidelines for the fiscal management of the City. These guidelines, influenced by the North Carolina Local Government Budget and Fiscal Control Act and sound financial principles, provide the framework for budgetary and fiscal planning. Operating independently of changing circumstances and conditions, these policies assist the decision-making processes of the City Council and city administration. <a href="/resources/process.php">Read more</a>
 	    </p>
 	  </td>
 	</tr> 
