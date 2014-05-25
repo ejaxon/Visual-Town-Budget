@@ -131,6 +131,29 @@ The City of Asheville financial policies establish general guidelines for the fi
 	    </p>
 	  </td>
 	</tr> 
+
+	<tr valign="top">
+	  <td>
+	    <h2>Comprehensive Annual Financial Reports (CAFR)</h2>
+	    <p>
+	      <ul>
+		<li><a href="#">Fiscal Year Ended June 30, 2013</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2012</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2011</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2010</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2009</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2008</a></li>
+		<li><a href="#">Fiscal Year Ended June 30, 2007</a></li>
+	      </ul>
+	    </p>
+	  </td>
+	  <td>
+	    <h2>Finance Committee Meeting Materials</h2>
+	    <p>
+	      Meeting agenda, meeting minutes and supporting documents are these materials via the City of Asheville website.
+	    </p>
+	  </td>
+	</tr> 
       </table>
     </div>
     <?php include '../includes/template_elements/footer.php'; ?>
