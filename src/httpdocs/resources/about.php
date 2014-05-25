@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Asheville, NC Budget App | A Code for Asheville Creation</title>
-	<meta name='description' content='ReRoute AVL is a civic hackathon bringing together transportation organizations and civic­ minded citizens of Asheville to rapidly conceive, design, and prototype multi­modal transportation solution apps.'>
+	<meta name='description' content='Asheville Budget App'>
 	<?php include '../includes/template_elements/resources.php'; ?>
 </head>
 <body class="about">
@@ -15,15 +15,25 @@
 		<div class="content span12">
 			<div class="wrapper container">
 				<div class="span6">
-					<h1>
-						What's this about?
-					</h1>
+					<h1>About This Website</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pulvinar nulla sit amet augue porta, vitae gravida dui fringilla. Nulla dolor est, commodo quis pellentesque nec, scelerisque nec nibh. Sed ut odio orci. Mauris placerat mollis nisl et tempus. Ut mollis lacus ut imperdiet ullamcorper. Nunc mattis mollis dolor quis auctor. Sed eu urna id lorem malesuada tristique vitae sed lacus. Vivamus lacinia justo ac pellentesque dapibus. Sed faucibus viverra metus, vitae faucibus neque. In molestie nisi id elementum luctus. Pellentesque non metus ac justo commodo sagittis. Nulla sollicitudin felis non felis iaculis consequat. Nulla facilisi. Nulla facilisi. Sed semper tincidunt elit, ut hendrerit mi rhoncus vel. Ut metus massa, blandit nec posuere quis, tempus gravida mauris.
-
-		Pellentesque posuere vel tellus non tempus. Sed a ante fringilla, pharetra elit et, tempus augue. Curabitur commodo et libero faucibus consequat. Mauris semper fermentum gravida. Nunc luctus lorem quam. Pellentesque pharetra dolor id lectus tempor, nec lacinia leo congue. Mauris vitae iaculis arcu. Etiam scelerisque sem eu dui vestibulum dictum. Curabitur euismod mattis hendrerit. Aenean luctus, velit sed posuere pulvinar, dui tellus congue mauris, sed pharetra risus quam eu dolor. Nulla laoreet consectetur posuere.
-
-		Morbi tristique massa risus, eu dictum ipsum vehicula in. Fusce in aliquet quam, in iaculis sem. Proin mi tortor, rhoncus quis mi at, dapibus sollicitudin massa. Sed fermentum ante ut sagittis pellentesque. Ut sit amet vulputate lectus. Aliquam purus justo, malesuada ac molestie sed, pellentesque et sem. Etiam leo velit, lobortis sed ullamcorper quis, faucibus a libero. In a ultricies lectus. Phasellus ipsum justo, lacinia laoreet quam vitae, eleifend lobortis neque. Aenean gravida nibh vitae nulla iaculis feugiat. Ut commodo arcu sed erat fringilla egestas. Sed consectetur auctor consectetur. Duis scelerisque odio in est egestas, sed venenatis purus malesuada. Curabitur nec suscipit mi.
+					  This site is a collaborative volunteer effort between Code for Asheville and the City of Asheville. As an experimental approach to civic engagement and open government it has been released in conjunction with the City’s 2014/2015 Proposed Budget, and updated with the final 2014/2015 Adopted Budget. While this certainly is not presented as a final product it is, however, presented as a work in progress and, more importantly, as an invitation to participate. We hope that it offers some helpful functionality and sparks further collaboration between Code for Asheville, citizens, the City, and the press.
+					</p>
+					<p>
+					  The functionality currently present at this site is focused primarily on the visualization of how the City of Asheville allocates and spends money. As citizens of Asheville we have an interest in how our tax dollars are collected and distributed. We hope to make this information just a little more accessible, presented in a fashion that both initiates questions and facilitates answers, and provides temporal context over the period of several years.
+					</p>
+					<p>
+					  Further information regarding the City of Asheville can be
+					  found <a href="http://www.ashevillenc.gov/" target="_blank">here</a>
+					</p>
+					<p>
+					  Code for Asheville is a local Code for America Brigade. The local organization website is
+					  located <a href="http://codeforasheville.org/" target="_blank">here</a>. The national website
+					  is located <a href="http://codeforamerica.org/" target="_blank">here.
+					</p>
+					<p>
+					  We welcome your interest and involvement. Please leave your email below and we’ll be delighted to
+					  follow up with you. No spam, we promise.
 					</p>
 				</div>
 			</div>
