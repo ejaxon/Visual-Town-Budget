@@ -66,24 +66,24 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-					<img src="../img/bulb-icon.png" alt="bulb icon" />
+				  <a href="whatsnew"><img src="../img/bulb-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis">Tell Me What's New</a>
+						<a href="whatsnew" name="whatis">Tell Me What's New</a>
 					</h3>
 				</div>
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-							<a href="message" class="">
-								Understand Budget Priorities &#8594;
-							</a>
+						  <a href="message" class="">
+						    Explore What's New In 2014-2015 &#8594;
+						  </a>
 						</li>
 						<li>
-							<a href="whatsnew" class="" >
-								Explore What's Changed &#8594;
-							</a>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand budget priorities<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revenue &amp; expenditure highlights<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactively explore budget differences<br/>
 						</li>
 					</ul>
 				</div>
@@ -98,7 +98,7 @@
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis">Show me the Money</a>
+						<a name="whatis">Show Me the Money</a>
 					</h3>
 				</div>
 				<div class="span5">
