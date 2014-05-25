@@ -8,7 +8,7 @@
 
                 <div class="home-column" id="home-col1" style=
                 "display:inline-block;">
-                    <p>Government budgets can be tough to understand, but now the Town of Asheville, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage with, and discuss.</p>
+                    <p>Government budgets can be tough to understand, but now the City of Asheville, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage, and discuss.</p>
 
                     <div style="margin-top: 25px;">
                         <div>
@@ -96,6 +96,7 @@
                                 </div>
                             </div>
 
+<!--
                             <div class="node" data-section="funds" style=
                             "left: 200px; width: 100px;">
                                 <div>
@@ -109,6 +110,7 @@
                                     </div>
                                 </div>
                             </div>
+-->
                         </div>
                     </div>
                 </div>
