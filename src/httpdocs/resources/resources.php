@@ -24,7 +24,7 @@
 	      <h2>Budget Process</h2>
 	      <p>Budget preparation affords departments the opportunity to reassess their goals and objectives and the strategies for accomplishing them.  Even though the proposed budget is presented City Council in May and adopted in June, its preparation begins at least six months prior with projections of City revenues, expenditures, and overall financial capacity. </p>
 	      <p>
-		<a href="/resources/process.php">Read more</a> about:
+		<a href="../docs/budget_process.pdf">Read more</a> about:
 		<ul>
 		  <li>
 		    Financial forecasting
@@ -59,7 +59,7 @@
 	      </div>
 	      <div class="span3">
 		<p>
-		  Full-size image <a href="../img/2014BudgetCalendar.png">here</a>.
+		  Full-size version <a href="../docs/budget_calendar.pdf">here</a>.
 		</p>
 	      </div>
 	    </div>
@@ -73,7 +73,7 @@
 		The accounts of the City of Asheville are organized and operated on the basis of funds.  A fund is a fiscal and accounting entity with a self-balancing set of accounts comprised of assets, liabilities, fund equity, revenues, and expenses as appropriate.  Fund accounting segregates funds according to their intended purpose and is used to aid management in demonstrating compliance with finance-related legal and contractual provisions. 
 	      </p>
 	      <p>
-		<a href="/resources/process.php">Read more</a> about:
+		<a href="../docs/budget_structure.pdf">Read more</a> about:
 		<ul>
 		  <li>
 		    Fund Accounting
@@ -121,13 +121,13 @@
 	      Honorable Mayor Manheimer and City Council Members:
 	    </p>
 	    <p>
-	      The City of Asheville is beginning to see steady improvement over the effects of the global economic crisis which has driven many budgetary and operational decisions over the last few years. While the economic outlook is improving, staff continues to work on reengineering and managed cost savings with an eye toward long-term structural sustainability and a continued high level of service. The 2014-2015 proposed budget for operations is primarily a continuation budget; there are few operational changes from the previous year. <a href="/resources/process.php">Read more</a>
+	      The City of Asheville is beginning to see steady improvement over the effects of the global economic crisis which has driven many budgetary and operational decisions over the last few years. While the economic outlook is improving, staff continues to work on reengineering and managed cost savings with an eye toward long-term structural sustainability and a continued high level of service. The 2014-2015 proposed budget for operations is primarily a continuation budget; there are few operational changes from the previous year. <a href="../docs/ManagersLetter2014.pdf">Read more</a>
 	    </p>
 	  </td>
 	  <td>
 	    <h2>Financial Policies</h2>
 	    <p>
-The City of Asheville financial policies establish general guidelines for the fiscal management of the City. These guidelines, influenced by the North Carolina Local Government Budget and Fiscal Control Act and sound financial principles, provide the framework for budgetary and fiscal planning. Operating independently of changing circumstances and conditions, these policies assist the decision-making processes of the City Council and city administration. <a href="/resources/process.php">Read more</a>
+The City of Asheville financial policies establish general guidelines for the fiscal management of the City. These guidelines, influenced by the North Carolina Local Government Budget and Fiscal Control Act and sound financial principles, provide the framework for budgetary and fiscal planning. Operating independently of changing circumstances and conditions, these policies assist the decision-making processes of the City Council and city administration. <a href="../docs/city_financial_policies.pdf">Read more</a>
 	    </p>
 	  </td>
 	</tr> 
