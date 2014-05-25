@@ -76,14 +76,14 @@
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-						  <a href="message" class="">
+						  <a href="whatsnew" class="">
 						    Explore What's New In 2014-2015 &#8594;
 						  </a>
 						</li>
 						<li>
 						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand budget priorities<br/>
-						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revenue &amp; expenditure highlights<br/>
-						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactively explore budget differences<br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See highlights of revenue &amp; spending changes <br/>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactive budget changes visualization<br/>
 						</li>
 					</ul>
 				</div>
@@ -102,18 +102,18 @@
 					</h3>
 				</div>
 				<div class="span5">
-					<ul class="link-list">
-						<li>
-							<a href="expenses" class="">
-								See how much goes where &#8594;
-							</a>
-						</li>
-						<li>
-							<a href="whatsnew" class="">
-								See what's changed over time &#8594;
-							</a>
-						</li>						
-					</ul>
+				  <ul class="link-list">
+				    <li>
+				      <a href="expenses" class="">
+					Visualize Asheville Spending &amp; Revenue &#8594;
+				      </a>
+				    </li>
+				    <li>
+				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interactive visualization<br/>
+				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See how much goes where <br/>
+				      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See what's changed over time<br/>
+				    </li>						
+				  </ul>
 				</div>
 			</div>
 		</div>		
