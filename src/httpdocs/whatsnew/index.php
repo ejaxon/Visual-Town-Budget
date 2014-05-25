@@ -78,7 +78,7 @@
       <div class="row">
         <div class="well">
           <div>
-            <h3>Explore What's Changed - Top 10 Budget Differences Compared To Last Year</h3>
+            <h3>Explore The Top Budget Changes Compared To Last Year</h3>
           </div>
           <div id="mainFlow" class="interactionPanel" style="">
 	    <br/>
