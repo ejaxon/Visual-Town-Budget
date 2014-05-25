@@ -137,20 +137,20 @@ The City of Asheville financial policies establish general guidelines for the fi
 	    <h2>Comprehensive Annual Financial Reports (CAFR)</h2>
 	    <p>
 	      <ul>
-		<li><a href="#">Fiscal Year Ended June 30, 2013</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2012</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2011</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2010</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2009</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2008</a></li>
-		<li><a href="#">Fiscal Year Ended June 30, 2007</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/CAFR%2012172013.pdf" target="_blank">Fiscal Year Ended June 30, 2013</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/images/departments/finance/CAFR%202013%20with%20changes.pdf" target="_blank">Fiscal Year Ended June 30, 2012</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/cafr/CAFR%202011.pdf" target="_blank">Fiscal Year Ended June 30, 2011</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/cafr/CAFR2010.pdf" target="_blank">Fiscal Year Ended June 30, 2010</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/cafr/2009%20COA%20CAFR.pdf" target="_blank">Fiscal Year Ended June 30, 2009</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/cafr/CAFR%202008.pdf" target="_blank">Fiscal Year Ended June 30, 2008</a></li>
+		<li><a href="http://www.ashevillenc.gov/Portals/0/city-documents/finance/CAFR%202007.pdf" target="_blank">Fiscal Year Ended June 30, 2007</a></li>
 	      </ul>
 	    </p>
 	  </td>
 	  <td>
 	    <h2>Finance Committee Meeting Materials</h2>
 	    <p>
-	      Meeting agenda, meeting minutes and supporting documents are these materials via the City of Asheville website.
+	      Meeting agendas, meeting minutes and supporting documents can be found on the City of Asheville website <a href="http://www.ashevillenc.gov/Departments/CityClerk/CouncilCommittees/FinanceCommittee/MeetingMaterials.aspx" target="_blank">here</a>.
 	    </p>
 	  </td>
 	</tr> 
