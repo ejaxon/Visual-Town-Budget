@@ -14,7 +14,7 @@
 	<div class="wrapper container">	
 		<div class="content span12">
 			<div class="wrapper container">
-				<div class="span6">
+				<div class="span8">
 					<h1>About This Project</h1>
 					<p>
 This site, a volunteer collaboration between <a href="http://codeforasheville.org/" target="_blank">Code for
