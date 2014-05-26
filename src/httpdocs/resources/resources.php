@@ -17,7 +17,12 @@
     </div>
     <div class="wrapper container">	
       <h1>Resources</h1>
-      <p>You can download the full Asheville 2014-2015 Proposed Budget <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf">here</a>.</p>
+      <div>
+        <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="font-weight:bold;">
+          Download Full Budget Document
+        </a>
+      </div>
+      <br/>
       <table border="5" cellspacing="5px" cellpadding="10px">
 	<tr valign="top">
 	  <td>
@@ -56,7 +61,7 @@
 	    <div class="span5">
 	      <h2>Budget Calendar</h2>
 	      <div class="span4">
-		<img src="../img/2014BudgetCalendar.png"  alt="Budget calendar image" />
+		<a href="../docs/budget_calendar.pdf"><img src="../img/2014BudgetCalendar.png"  alt="Budget calendar image" /></a>
 	      </div>
 	      <div class="span3">
 		<p>
@@ -102,7 +107,7 @@
 	    <div class="span5">
 	      <h2>Organizational Structure</h2>
 	      <div class="span4">
-		<img src="../img/2014OrgChart.png"  alt="Asheville city org chart image" />
+		<a href="../img/2014OrgChart.png"><img src="../img/2014OrgChart.png"  alt="Asheville city org chart image" /></a>
 	      </div>
 	      <div class="span3">
 		<p>
