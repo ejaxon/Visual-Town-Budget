@@ -17,11 +17,20 @@
 <script>
 $(document).ready(initialize);
 </script>
+  <!-- BOOTSTRAP -->
 
+  <link href="/css/page.css" rel="stylesheet" type="text/css" />
+  <style type='text/css'>
+
+  </style> 
 </head>
 
-<body>
-
+<body class='show-me-the-money'>
+  <!-- Asheville Top Navigation -->
+  <div class='header-container'>
+    <?php include 'includes/template_elements/top-bar.php'; ?>     
+  </div>
+  <!-- End Asheville -->
   <?php
     require_once 'includes/home.php';
     require_once 'includes/navbar.php';
@@ -40,6 +49,7 @@ $(document).ready(initialize);
   ga('create', 'UA-10273473-12', 'Ashevillevisualbudget.org');
   ga('send', 'pageview');
 </script>
+  <?php include 'includes/template_elements/footer.php'; ?>
 
 </body>
 

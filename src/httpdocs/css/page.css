@@ -1,6 +1,6 @@
 /*background image*/
 /*GLOBAL*/
-.nav{
+.navigation > .nav{
   margin-bottom: 0px;
   padding-bottom: 20px;
   padding-top: 10px;
@@ -24,10 +24,17 @@
 
 .nav > li > a:hover{
   background: #333;
+  color: white !important;
+}
+
+
+#avb-menubar .menubutton a:hover{
+  color: white !important;
 }
 
 .nav > li > a img{
   max-width:25px;
+  vertical-align: middle
 }
 
 .content{
@@ -36,10 +43,8 @@
 
 /*HTML HEADER SQUARE*/
 
-.collaboration{
-  a{
-    color: #A4CC56;
-  }
+.collaboration a{
+  color: #A4CC56 !important;
 }
 
 .square{
@@ -69,7 +74,13 @@
   z-index: 1000;
 }
 
-.about .square, .about .header{
+.show-me-the-money .square,
+.show-me-the-money .header{
+  background: #72BF00;
+}
+
+.about .square, 
+.about .header{
   background: #A58A6A;
 }
 
@@ -293,8 +304,9 @@ p{
   line-height: 24px;
   font-size: 14px;
 }
-.header-area{
+.header-area, .footer{
   /*padding-bottom: 20px !important;*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 @media (min-width: 1200px){
   .row.header-area{
@@ -305,7 +317,7 @@ p{
 }
 @media (max-width: 979px) and (min-width: 768px){
   .row.header-area{
-    padding: 150px 0px;
+    /*padding: 150px 0px;*/
   }
 }
 @media (max-width:767px){
@@ -470,6 +482,11 @@ div.header-container{
     left: -6px;
 }
 
+.nav-active{
+  background: #333;
+  color: white;
+}
+
 
 /*SLIDER PAGE SETTINGS*/
 /*SLIDER PAGE SETTINGS*/
@@ -498,9 +515,9 @@ div.header-container{
 .slides li .slide-overlay{
   z-index:100;
   position:absolute;
-  margin: 150px auto;
+  /*margin: 150px auto;*/
   width: 50%;
-  top:0px;
+  top:50px;
   right:10%;
 }
 .slide-overlay h2, .slide-overlay p, .slide-overlay a{
@@ -540,14 +557,60 @@ body > br{
 .chart{
   width: 100%;
 }
+
+.well{
+  overflow:hidden;
+}
+
 #mainFlow .tt, #mainFlow .budgetDiffUI{
-  clear:both;
+/*  clear:both;
   display:block;
   margin: 10px 0px;
-  width: 100%;
+  width: 100%;*/
 }
 .header-container{
   position:relative;
 }
 
+/*APP STYLES*/
+#avb-menubar{
+  border-top: none !important;
+  margin-top: 40px;
+}
+
+#avb-menubar, #avb-body{
+  position: relative;
+}
+
+#avb-body{
+  z-index: 0;
+}
+
+#avb-menubar{
+  z-index: 1;
+}
+
+body.show-me-the-money{
+    background-image: none;
+    min-width: 1200px;
+  }
+
+body.show-me-the-money #avb-wrap{
+  border: 3px solid black;
+}
+
+.show-me-the-money h1{
+/*  font-size: 1.5em;
+  line-height: 1.5em;*/
+  min-width: 260px;
+}
+
+.show-me-the-money .footer .span4{
+  width: 380px;
+}
+
+.show-me-the-money .header-area .span9{
+  float:right;
+  min-width: 870px;
+}
 

@@ -235,7 +235,7 @@ div.navigation a{
 }
 .header-area{
   padding: 150px 0px;
-  padding-bottom: 20px !important;
+  /*padding-bottom: 20px !important;*/
 }
 @media (min-width: 1200px){
   .row.header-area{

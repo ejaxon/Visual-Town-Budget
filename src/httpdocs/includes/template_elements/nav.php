@@ -1,7 +1,7 @@
 <ul class="nav nav-pills">
   <li class="dropdown">
     <a class="dropdown-toggle" href="/whatsnew">
-      <img src="../img/bulb-icon.png" alt='bulb icon'/>
+      <img src="/img/bulb-icon.png" alt='bulb icon'/>
       Tell Me What's New
       &#8595;
     </a>
@@ -25,7 +25,7 @@
   </li>
   <li class="dropdown">
     <a class="dropdown-toggle" href="/expenses">
-      <img src="../img/money-icon.png" alt='bulb icon'/>
+      <img src="/img/money-icon.png" alt='bulb icon'/>
       Show me the Money &#8595;
     </a>
     <ul class="dropdown-menu">
@@ -48,7 +48,7 @@
   </li>
   <li class="dropdown">
     <a class="dropdown-toggle" href="/resources/resources.php">
-      <img src="../img/db-icon.png" alt='bulb icon'/>
+      <img src="/img/db-icon.png" alt='bulb icon'/>
       Resources 
       &#8595;
     </a>
@@ -77,7 +77,7 @@
   </li>
   <li class="dropdown">
     <a class="dropdown-toggle" href="/about">
-      <img src="../img/pencil-icon.png" alt='bulb icon'/>
+      <img src="/img/pencil-icon.png" alt='bulb icon'/>
       About this App &#8595;
     </a>
      <ul class="dropdown-menu">
