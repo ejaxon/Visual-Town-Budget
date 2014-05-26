@@ -52,7 +52,7 @@
 						The City of Asheville
 					</a>
 					<div class="CTA">
-						<a href="/getinvolved.html" class="arrow-button" onclick="return popup(this, 'Getting Involved')">
+						<a href="/resources/about.php" class="arrow-button">
 							How Do I Get Involved?
 						</a>
 					</div>
