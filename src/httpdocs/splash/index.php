@@ -166,7 +166,7 @@
 							</a>
 						</li>
 						<li>
-							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why are you doing this?<br/>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why are we doing this?<br/>
 							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What happens next?<br/>
 							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can I participate?<br/>
 						</li>
