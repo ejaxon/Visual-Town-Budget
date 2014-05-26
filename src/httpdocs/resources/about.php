@@ -60,7 +60,7 @@ June 10, 2014 City Council meeting, 5pm at City Hall.
 </p>
 <p>
 <span style="font-weight:bold;">Join the conversation:</span><br/>
-Leave your email below and we’ll be delighted to follow up with you. No spam, we promise. 
+Sign up below and we’ll be delighted to follow up with you. No spam, we promise. 
 </p>
 <br/>
 <br/>
