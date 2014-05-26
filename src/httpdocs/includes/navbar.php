@@ -16,7 +16,6 @@
         <span class="menubutton section margin" data-section="revenues"><a href="/revenues">Revenues</a></span>
         <span class="menubutton section margin" data-section="expenses"><a href="/expenses">Expenses</a></span>
 	<span class="menubutton section margin">&nbsp;&nbsp;</span>
-        <span class="menubutton section margin"><a href="/">Back To Home</a></span>		
 <!--        <span class="menubutton section margin" data-section="funds"><a id="navbar-funds" href="/funds">Funds &#38; Reserves</a></span>-->
     </div>
 
