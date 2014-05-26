@@ -79,9 +79,11 @@ function setUpState() {
 	if (currentState == "select") { // User is selecting which data to look at
 	    element = document.getElementById("selectText");
 	    element.innerHTML= "Select " + hierarchyNames[currentLevel] + ":"
+	    element.style.visibility = "visible";
 
 	    // Reset the drop-down menu
 	    element = document.getElementById("categorySelector");
+	    element.style.visibility = "visible";
 	    while (element.length > 0) {
 		element.remove(element.length-1);
 	    }
@@ -91,7 +93,12 @@ function setUpState() {
 		element.add(new Option(pickList[j], pickList[j], defSelected, defSelected));
 	    }
 	}
-
+	else {
+	    element = document.getElementById("selectText");
+	    element.style.visibility = "hidden";
+	    element = document.getElementById("categorySelector");
+	    element.style.visibility = "hidden";
+	}
 	// Construct an array of objects with the values to be graphed
 	var mapTag = null;
 	if (currentLevel == maxLevel || accountToggle) {
