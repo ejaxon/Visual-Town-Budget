@@ -57,6 +57,9 @@
                 <a href="#" class="border-button">
                   Read more about budget goals
                 </a>
+                <a href="#" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
               </div>
             </div>
         </li>
@@ -75,6 +78,9 @@
                 </p>
                 <a href="#" class="border-button">
 		  Read revenue highlight details
+                </a>
+                <a href="#" class="border-button" style="float:right;">
+                  Download full budget
                 </a>
               </div>
             </div>
