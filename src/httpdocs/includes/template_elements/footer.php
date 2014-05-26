@@ -38,7 +38,7 @@
          <!-- FOOTER COLUMN 3 -->
           <div class='span4'>
             <a class="arrow-button" href="https://docs.google.com/forms/d/1jm4yubZ-_we7-GSUEcBMNjBJbrsenfk5IQy9R871zEQ/viewform?usp=send_form">
-              <h4>I'd like to help out with the budget app!</h4>
+              <h4>I'd like to help out with the budget project!</h4>
             </a>
           </div>                        
         </div>
