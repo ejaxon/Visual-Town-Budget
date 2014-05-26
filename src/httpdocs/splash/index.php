@@ -155,7 +155,7 @@
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis" href="about">About This App</a>
+						<a name="whatis" href="about">About This Project</a>
 					</h3>
 				</div>
 				<div class="span5">

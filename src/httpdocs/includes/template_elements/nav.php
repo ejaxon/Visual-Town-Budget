@@ -78,7 +78,7 @@
   <li class="dropdown">
     <a class="dropdown-toggle" href="/about">
       <img src="/img/pencil-icon.png" alt='bulb icon'/>
-      About this App &#8595;
+      About this Project &#8595;
     </a>
      <ul class="dropdown-menu">
       <li>

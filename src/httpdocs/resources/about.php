@@ -15,25 +15,62 @@
 		<div class="content span12">
 			<div class="wrapper container">
 				<div class="span6">
-					<h1>About This Website</h1>
+					<h1>About This Project</h1>
 					<p>
-					  This site is a collaborative volunteer effort between Code for Asheville and the City of Asheville. As an experimental approach to civic engagement and open government it has been released in conjunction with the City’s 2014/2015 Proposed Budget, and updated with the final 2014/2015 Adopted Budget. While this certainly is not presented as a final product it is, however, presented as a work in progress and, more importantly, as an invitation to participate. We hope that it offers some helpful functionality and sparks further collaboration between Code for Asheville, citizens, the City, and the press.
+This site, a volunteer collaboration between <a href="http://codeforasheville.org/" target="_blank">Code for
+Asheville</a> and the <a href="http://www.ashevillenc.gov/" target="_blank">City of Asheville</a>, is an experiment in civic
+engagement and open government that we are releasing in conjunction
+with the City’s 2014/2015 Proposed Budget (and will update when the
+final budget is adopted). The site is not intended to
+be any kind of final product. We see it rather as a contribution to
+the conversation within the Asheville community and between the
+community and the government which serves it.
 					</p>
 					<p>
-					  The functionality currently present at this site is focused primarily on the visualization of how the City of Asheville allocates and spends money. As citizens of Asheville we have an interest in how our tax dollars are collected and distributed. We hope to make this information just a little more accessible, presented in a fashion that both initiates questions and facilitates answers, and provides temporal context over the period of several years.
+How our tax dollars are collected and spent fundamentally reflects our
+community's values and so it is important for us, as citizens of
+Asheville, to pay attention to that. For this reason our initial
+efforts here have focused on making this information just a little 
+more accessible and presenting it in a fashion that both gives rise
+to questions and facilitates answers, while providing some
+historical context.
 					</p>
+					<h3> Next Steps</h3>
+<p>
+  The most important next steps are <em>yours</em>.
+</p>
+<p>
+<span style="font-weight:bold;">Explore the site:</span>
+<ul>
+  <li> Check out <a href="/resources/whatsnew"> what's new</a>
+    this year and interactively visualize changes since last
+    year.
+  </li>
+  <li> Explore our <a href="/expenses">visual
+      budget</a>. See how Asheville spends money and collects revenue.
+  </li>
+  <li> Delve into the <a href="/resources/resources.php">gory
+      details</a>: budget, process, organization and more.
+</ul>
+</p>
+<p>
+<span style="font-weight:bold;">Participate:</span><br/>
+Attend the Public Budget Hearing and Comment at the
+June 10, 2014 City Council meeting, 5pm at City Hall.
+</p>
+<p>
+<span style="font-weight:bold;">Join the conversation:</span><br/>
+Leave your email below and we’ll be delighted to follow up with you. No spam, we promise. 
+</p>
+<br/>
+<br/>
 					<p>
-					  Further information regarding the City of Asheville can be
-					  found <a href="http://www.ashevillenc.gov/" target="_blank">here</a>
-					</p>
-					<p>
-					  Code for Asheville is a local Code for America Brigade. The local organization website is
-					  located <a href="http://codeforasheville.org/" target="_blank">here</a>. The national website
-					  is located <a href="http://codeforamerica.org/" target="_blank">here.
-					</p>
-					<p>
-					  We welcome your interest and involvement. Please leave your email below and we’ll be delighted to
-					  follow up with you. No spam, we promise.
+					  <a href="http://codeforasheville.org/"
+					  target="_blank">Code for
+					  Asheville</a> is a local  
+					  <a href="http://codeforamerica.org/"
+					  target="_blank">Code for
+					  America</a> Brigade.
 					</p>
 				</div>
 			</div>
