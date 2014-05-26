@@ -511,6 +511,7 @@ div.header-container{
 }
 .slides li img{
   z-index:1;
+  margin-top: -20%;  
 }
 .slides li .slide-overlay{
   z-index:100;
