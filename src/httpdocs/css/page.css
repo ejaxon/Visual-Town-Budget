@@ -408,6 +408,23 @@ div.header-container{
   }
 }
 
+/*BOOTSTRAP MENU STYLES*/
+.dropdown-menu{
+  padding: 0px;
+   -webkit-border-radius: 0px !important; 
+  -moz-border-radius: 0px !important;
+   border-radius: 0px !important; 
+   border: none !important;  
+}
+
+.dropdown-menu > li > a{
+  padding: 10px
+}
+
+.dropdown-menu > li > a:hover{
+  background: #666 !important;
+}
+
 /*BOOTSTRAP MENU FIX*/
 .sidebar-nav {
     padding: 9px 0;
