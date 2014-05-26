@@ -45,28 +45,6 @@
           <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>City Council Budget Goals For 2014-2015</h2>
-                <p>
-		  <ul>
-		    <li>Employee compensation &amp; managed savings</li>
-		    <li>Police strategic plan</li>
-		    <li>Asheville redefines transit</li>
-		    <li>Graffiti initiative</li>
-		  </ul>
-                </p>
-                <a href="#" class="border-button">
-                  Read more about budget goals
-                </a>
-                <a href="#" class="border-button" style="float:right;">
-                  Download full budget
-                </a>
-              </div>
-            </div>
-        </li>
-        <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
-            <div class="slide-overlay">
-              <div>
                 <h2>Revenue Highlights</h2>
                 <p>
 		  <ul>
@@ -76,10 +54,122 @@
 		    <li>Planned fund balance appropriation of $2.0 million</li>
 		  </ul>
                 </p>
-                <a href="#" class="border-button">
-		  Read revenue highlight details
+                <a href="../docs/Revenue_summary_detail.pdf" target="_blank" class="border-button">
+		  Read revenue details
                 </a>
-                <a href="#" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Expenditure Highlights</h2>
+                <p>
+		  <ul>
+		    <li>1.2% overall decrease compared to the FY 2013-14 budget</li>
+		    <li>Cost of Living increase of 3% </li>
+		    <li>Operating costs are budgeted to increase by 4.1%. </li>
+		    <li>Debt service budget is essentially flat at $12.7 million </li>
+		    <li>Capital outlay is budgeted to decrease by 33.6%</li>
+		  </ul>
+                </p>
+                <a href="../docs/Expenditure_summary_detail.pdf" target="_blank" class="border-button">
+		  Read expenditure details
+                </a>
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Staffing Highlights</h2>
+                <p>
+		  <ul>
+		    <li>Additional 3 FTE positions are budgeted for FY 2014-15 budget</li>
+		    <li>Otherwise position counts are unchanged</li>
+		    <li>Cost of Living increase of 3% for existing staff </li>
+		  </ul>
+                </p>
+                <a href="../docs/Staffing_summary_detail.pdf" target="_blank" class="border-button">
+		  Read staffing details
+                </a>
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
+              </div>
+            </div>
+        </li>
+
+        <li>
+          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Budget Highlights By Fund</h2>
+                <p>
+		  <ul>
+		    <li>General: Expenditures up 3.8%</li>
+		    <li>Water Resources: Rate adjustments to yield additional $460,000</li>
+		    <li>Stormwater: Tiered rate structure proposed</li>
+		    <li>Transit Services: Funding proposed for limited Sunday service and Route C improvements</li>
+		    <li>US Cellular Center: Event bookings &amp; operating revenue continue to trend up</li>
+		    <li>Housing Trust: General Fund contribution of $500,000 continues</li>
+		  </ul>
+                </p>
+                <a href="../docs/Funds_Budget_Details.pdf" target="_blank" class="border-button">
+		  Read fund budget details
+                </a>
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Capital Improvements</h2>
+                <p>
+		  <ul>
+		    <li>Last year's 3&cent; property tax increase to fund capital investment (2&cent;) and maintenance (1&cent;)</li>
+		    <li>Comprehensive 5 yr capital improvement plan includes $132 Million in projects</li>
+		    <li>Cost offsets of approximately $43 million from outside sources
+		  </ul>
+                </p>
+                <a href="../docs/Capital_Investment_Program.pdf" target="_blank" class="border-button">
+		  Read capital improvements details
+                </a>
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                  Download full budget
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>City Council Budget Goals For 2014-2015</h2>
+                <p>
+		  <ul>
+		    <li>Employee compensation &amp; managed savings</li>
+		    <li>Police strategic plan</li>
+		    <li>Asheville redefines transit</li>
+		    <li>Graffiti initiative</li>
+		  </ul>
+                </p>
+                <a href="../docs/City_Council_budget_goals.pdf" target="_blank" class="border-button">
+                  Read budget goal details
+                </a>
+                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
