@@ -1,4 +1,30 @@
 <ul class="nav nav-pills">
+  <li>
+    <a href="/whatsnew">
+      <img src="/img/bulb-icon.png" alt='bulb icon'/>
+      Tell Me What's New
+    </a>
+  </li>
+  <li>
+    <a href="/expenses">
+      <img src="/img/money-icon.png" alt='bulb icon'/>
+      Show me the Money
+    </a>
+  </li>
+  <li>
+    <a href="/resources/resources.php">
+      <img src="/img/db-icon.png" alt='bulb icon'/>
+      Resources 
+    </a>
+  </li>
+  <li>
+    <a href="/about">
+      <img src="/img/pencil-icon.png" alt='bulb icon'/>
+      About this Project
+    </a>
+  </li>      
+
+<!-- Old menu with dropdowns
   <li class="dropdown">
     <a class="dropdown-toggle" href="/whatsnew">
       <img src="/img/bulb-icon.png" alt='bulb icon'/>
@@ -31,7 +57,7 @@
     <ul class="dropdown-menu">
       <li>
         <a href="/expenses">
-	    See how much goes where
+	  Interactive budget allocation visualization
         </a>
       </li>
       <li>
@@ -103,4 +129,5 @@
       </li>                  
     </ul>
   </li>      
+-->
 </ul>
