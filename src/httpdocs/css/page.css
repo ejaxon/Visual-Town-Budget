@@ -28,7 +28,7 @@
 }
 
 
-#avb-menubar .menubutton a:hover{
+#yeardrop .menubutton a:hover{
   color: white !important;
 }
 
@@ -517,7 +517,7 @@ div.header-container{
   position:absolute;
   /*margin: 150px auto;*/
   width: 50%;
-  top:50px;
+  top:110px;
   right:10%;
 }
 .slide-overlay h2, .slide-overlay p, .slide-overlay a{
