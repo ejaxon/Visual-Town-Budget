@@ -99,7 +99,7 @@
 		    <li>Capital outlay is budgeted to decrease by 33.6%</li>
 		  </ul>
                 </p>
-                <a href="../docs/Expenditure_summary_detail.pdf" target="_blank" class="border-button">
+                <a href="../docs/Expenditure_summary detail.pdf" target="_blank" class="border-button">
 		  Read expenditure details
                 </a>
                 <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
@@ -210,7 +210,7 @@
 
 	      <span id="selectText" class="labelText">Select Fund:</span><span>&nbsp;&nbsp;</span>
 	      <select id="categorySelector" onchange="buttonClick('next')">
-		<option>Dog</option>
+		<option>---</option>
 	      </select>
 	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 	      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
