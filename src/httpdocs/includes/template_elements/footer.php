@@ -45,3 +45,27 @@
       </div>
     </div>
   </div>
+  <script type='text/javascript'>
+activepath = window.location.pathname.substring(0);
+
+if(activepath.substring(activepath.length-1) == "/"){
+  activepath = window.location.pathname.substring(0, window.location.pathname.length - 1);
+
+}
+
+if($(".dropdown-toggle[href='" + activepath 
+ + "']").length){
+  $(".dropdown-toggle[href='" + activepath 
+ + "']").addClass('nav-active');  
+}
+else{
+  activepath = "/expenses";
+    $(".dropdown-toggle[href='" + activepath 
+ + "']").addClass('nav-active');  
+
+}
+
+
+
+
+</script>
