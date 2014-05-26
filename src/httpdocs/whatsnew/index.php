@@ -42,7 +42,7 @@
     <div class="flexslider carousel">
       <ul class="slides">
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://upload.wikimedia.org/wikipedia/commons/e/e7/Grove_Arcade_Building,_Asheville_NC.JPG" />
             <div class="slide-overlay">
               <div>
                 <h2>City Council Budget Goals For 2014-2015</h2>
@@ -86,7 +86,7 @@
             </div>
         </li>
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://upload.wikimedia.org/wikipedia/commons/d/d9/Botanical_Gardens_at_Asheville_-_path.JPG" />
             <div class="slide-overlay">
               <div>
                 <h2>Expenditure Highlights</h2>
@@ -109,7 +109,7 @@
             </div>
         </li>
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://upload.wikimedia.org/wikipedia/commons/f/f7/Asheville_City_Hall_-_Hi-Res.jpg" />
             <div class="slide-overlay">
               <div>
                 <h2>Staffing Highlights</h2>
@@ -131,7 +131,7 @@
         </li>
 
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://upload.wikimedia.org/wikipedia/commons/e/e7/Buncombe_County_Courthouse,_Asheville,_NC_IMG_5199.JPG" />
             <div class="slide-overlay">
               <div>
                 <h2>Budget Highlights By Fund</h2>
@@ -155,7 +155,7 @@
             </div>
         </li>
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://farm1.staticflickr.com/56/113133542_202a413913_o.jpg" />
             <div class="slide-overlay">
               <div>
                 <h2>Capital Improvements</h2>
@@ -176,7 +176,7 @@
             </div>
         </li>
         <li>
-          <img src="http://media.reserveatlakekeowee.com/2013/02/slider_area_asheville_1-1280x651.jpg" />
+          <img src="http://upload.wikimedia.org/wikipedia/commons/6/69/Asheville_downtown_map.png" />
             <div class="slide-overlay">
               <div>
                 <h2>Opportunity to Participate!</h2>
