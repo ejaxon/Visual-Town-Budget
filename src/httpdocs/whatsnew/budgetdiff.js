@@ -245,6 +245,11 @@ function setUpState() {
 	    if (currentLevel < maxLevel) {
 		element = document.getElementById("viewBySelector");
 		element.value = "View by " + (accountToggle?hierarchyNames[currentLevel]:"Account");
+		element.style.visibility = "visible";
+	    }
+	    else {
+		element = document.getElementById("viewBySelector");
+		element.style.visibility = "hidden";
 	    }
 	}
 	else { // No data
