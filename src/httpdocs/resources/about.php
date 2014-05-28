@@ -42,7 +42,7 @@ historical context.
 <p>
 <span style="font-weight:bold;">Explore the site:</span>
 <ul>
-  <li> Check out <a href="/resources/whatsnew"> what's new</a>
+  <li> Check out <a href="/whatsnew"> what's new</a>
     this year and interactively visualize changes since last
     year.
   </li>
