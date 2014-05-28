@@ -17,11 +17,12 @@
           </div>
           <!-- FOOTER COLUMN 2 --> 
           <div class='span4 omega'>
+	  <p><a target="_blank" href="https://docs.google.com/forms/d/1oqbJ_RqX8NRNTPsUe3K67VG0BB6Js8yZkYe8fnLnSCk/viewform?usp=send_form">Give Feedback</a></p>
 	  <!-- Deleted mailchimp signup from here - see holdMailChimpSignup file to restore -->
 	  </div>
          <!-- FOOTER COLUMN 3 -->
           <div class='span4'>
-            <a class="arrow-button" href="https://docs.google.com/forms/d/1jm4yubZ-_we7-GSUEcBMNjBJbrsenfk5IQy9R871zEQ/viewform?usp=send_form">
+            <a class="arrow-button" href="https://docs.google.com/forms/d/1oqbJ_RqX8NRNTPsUe3K67VG0BB6Js8yZkYe8fnLnSCk/viewform?usp=send_form">
               <h4>I'd like to contribute to the conversation!</h4>
             </a>
           </div>                        
