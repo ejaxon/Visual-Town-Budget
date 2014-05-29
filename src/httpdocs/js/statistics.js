@@ -67,10 +67,19 @@ stats = {
         class: "span6 individual",
         value: function (d) {
             var percentage = d.values[yearIndex].val / avb.root.values[yearIndex].val;
+/*
+ * EJ HACK: Don't want to show individual contributions
 
             return '$' + d3.round(avb.userContribution * percentage,2);
+ *
+ */
+	    return 'Total Spending:' // Replaces user contribution
         },
+/*
+ * EJ HACK: Don't want to show individual contributions
         side: 'sample yearly tax contribution.',
+ */
+	side: ' ',
         cellClass: "value sum",
         cellFunction: function (d, cell) {
             avb.table.renderImpact(d, cell)

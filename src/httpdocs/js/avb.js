@@ -129,6 +129,8 @@ function initializeVisualizations(params) {
 
     // get user contribution if set
     avb.userContribution = avb.home.getContribution();
+/ * EJ HACK: Don't want to show individual contributions - next line*/
+    avb.userContribution = null;
 
     // set viewing mode
     setMode(params.mode);
