@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Asheville, NC Budget App | A Code for Asheville Creation</title>
+  <title>Asheville, NC Budget App |  A Code for Asheville Creation</title>
   <meta name='description' content='Government budgets can be tough to understand, but now the City of Asheville, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage, and discuss.'>
   <?php include '../includes/template_elements/resources.php'; ?>
   
