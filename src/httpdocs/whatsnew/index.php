@@ -57,7 +57,7 @@
                 <a href="../docs/City_Council_budget_goals.pdf" target="_blank" class="border-button">
                   Read budget goal details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -79,7 +79,7 @@
                 <a href="../docs/Revenue_summary_detail.pdf" target="_blank" class="border-button">
 		  Read revenue details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -102,7 +102,7 @@
                 <a href="../docs/Expenditure_summary detail.pdf" target="_blank" class="border-button">
 		  Read expenditure details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -115,7 +115,7 @@
                 <h2>Staffing Highlights</h2>
                 <p>
 		  <ul>
-		    <li>Additional 3 FTE positions are budgeted for FY 2014-15 budget</li>
+		    <li>Additional 5 FTE positions are budgeted for FY 2014-15 budget</li>
 		    <li>Otherwise position counts are unchanged</li>
 		    <li>Cost of Living increase of 3% for existing staff </li>
 		  </ul>
@@ -123,7 +123,7 @@
                 <a href="../docs/Staffing_summary_detail.pdf" target="_blank" class="border-button">
 		  Read staffing details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -148,7 +148,7 @@
                 <a href="../docs/Funds_Budget_Details.pdf" target="_blank" class="border-button">
 		  Read fund budget details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -169,7 +169,7 @@
                 <a href="../docs/Capital_Investment_Program.pdf" target="_blank" class="border-button">
 		  Read capital improvements details
                 </a>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -179,14 +179,18 @@
           <img src="/img/slides/slide7.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Opportunity to Participate!</h2>
+                <h2>Changes from the Proposed Budget</h2>
                 <p>
 		  <ul>
-		    <li>Attend the Public Budget Hearing and Comment at
-		    5pm on June 10, 2014 at City Hall.</li>
+		    <li>2 additional FTE positions funded by the Street Utility Cut Fund</li>
+		    <li>1 additional FTE position in the City Attorney's Office funded by the General Fund</li>
+		    <li>$100,000 reallocation of funds within the Capital Improvement Program to Neighborhood Sidewalk Program
 		  </ul>
                 </p>
-                <a href="../docs/Asheville_2014-15_Proposed_Budget.pdf" target="_blank" class="border-button" >
+                <a href="../docs/Changes_proposed_adopted.pdf" target="_blank" class="border-button">
+		  Read more about the changes from Proposed to Adopted
+                </a>
+                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>

@@ -53,11 +53,7 @@ historical context.
       details</a>: budget, process, organization and more.
 </ul>
 </p>
-<p>
-<span style="font-weight:bold;">Participate:</span><br/>
-Attend the Public Budget Hearing and Comment at the
-June 10, 2014 City Council meeting, 5pm at City Hall.
-</p>
+
 <p>
 <span style="font-weight:bold;">Join the conversation:</span><br/>
 Sign up below and we’ll be delighted to follow up with you. No spam, we promise. 
