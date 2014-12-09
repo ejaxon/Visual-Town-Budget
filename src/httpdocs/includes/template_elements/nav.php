@@ -24,10 +24,11 @@
     </a>
   </li>      
   <li>
-    <a style="margin-top:7px;" href="https://docs.google.com/forms/d/1oqbJ_RqX8NRNTPsUe3K67VG0BB6Js8yZkYe8fnLnSCk/viewform?usp=send_form" target="_blank">
-  &nbsp;&nbsp;Feedback
-  </a>
-</li>
+    <a style="" href="https://docs.google.com/forms/d/1oqbJ_RqX8NRNTPsUe3K67VG0BB6Js8yZkYe8fnLnSCk/viewform?usp=send_form" target="_blank">
+      <img src="/img/feedback-nav.png" alt='feedback icon'/>
+      Feedback
+    </a>
+  </li>
 
 <!-- Old menu with dropdowns
   <li class="dropdown">
