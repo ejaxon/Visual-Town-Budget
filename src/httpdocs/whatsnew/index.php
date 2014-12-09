@@ -57,7 +57,7 @@
                 <a href="../docs/City_Council_budget_goals.pdf" target="_blank" class="border-button">
                   Read budget goal details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -79,7 +79,7 @@
                 <a href="../docs/Revenue_summary_detail.pdf" target="_blank" class="border-button">
 		  Read revenue details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -102,7 +102,7 @@
                 <a href="../docs/Expenditure_summary detail.pdf" target="_blank" class="border-button">
 		  Read expenditure details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -123,7 +123,7 @@
                 <a href="../docs/Staffing_summary_detail.pdf" target="_blank" class="border-button">
 		  Read staffing details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -148,7 +148,7 @@
                 <a href="../docs/Funds_Budget_Details.pdf" target="_blank" class="border-button">
 		  Read fund budget details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -169,7 +169,7 @@
                 <a href="../docs/Capital_Investment_Program.pdf" target="_blank" class="border-button">
 		  Read capital improvements details
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>
@@ -190,7 +190,7 @@
                 <a href="../docs/Changes_proposed_adopted.pdf" target="_blank" class="border-button">
 		  Read more about the changes from Proposed to Adopted
                 </a>
-                <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
+                <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
                   Download full budget
                 </a>
               </div>

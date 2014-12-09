@@ -18,7 +18,7 @@
     <div class="wrapper container">	
       <h1>Resources</h1>
       <div>
-        <a href="../docs/Asheville_2014-15.pdf" target="_blank" class="border-button" style="font-weight:bold;">
+        <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="font-weight:bold;">
           Download Full Budget Document
         </a>
       </div>
