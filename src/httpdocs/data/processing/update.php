@@ -151,6 +151,7 @@
         $destFile = getcwd().'/'.$filename;
         // delete old files
         if (file_exists($destFile)){
+          //var_dump($destFile); die("Died");
            unlink($destFile);
         }
         // save uploaded file

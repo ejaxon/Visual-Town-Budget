@@ -1,149 +1,111 @@
 LEVEL1,LEVEL2,LEVEL3,TOOLTIP,SOURCE,SOURCE URL,2010,2011,2012,2013,2014,LEVEL
-Street Cut Utility Fund,Public Works,CAFR Preparation,,,,0.0,-109292.99,-24491.77000000002,0.0,0.0,3
-Street Cut Utility Fund,Public Works,Street Cuts Division,,,,0.0,1181988.21,1447759.4500000002,1493808.0,1583814.0,3
-Street Cut Utility Fund,Public Works Total,,,,,0.0,1072695.22,1423267.6800000002,1493808.0,1583814.0,2
-Street Cut Utility Fund Total,,,,,,0.0,1072695.22,1423267.6800000002,1493808.0,1583814.0,1
-Stormwater Fund,Public Works,Stormwater Admin Division,,,,0.0,2761741.55,2610854.44,3648723.0,5261372.0,3
-Stormwater Fund,Public Works,CAFR Preparation,,,,0.0,12251.709999999972,-988056.3,0.0,0.0,3
-Stormwater Fund,Public Works Total,,,,,0.0,2773993.26,1622798.1399999997,3648723.0,5261372.0,2
-Stormwater Fund Total,,,,,,0.0,2773993.26,1622798.1399999997,3648723.0,5261372.0,1
-Other Post-Employment Benefits,Non-Departmental,Non-Divisional,,,,0.0,0.0,0.0,0.0,0.0,3
-Other Post-Employment Benefits,Non-Departmental Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Other Post-Employment Benefits Total,,,,,,0.0,0.0,0.0,0.0,0.0,1
-General Fund,Fire & Rescue,Fire Support Services Division,,,,2023217.6200000003,2235250.8800000004,2564722.03,2523129.0,2789662.0,3
-General Fund,Fire & Rescue,Emergency Response Division,,,,1.509339369E7,1.4964336979999999E7,1.470693459E7,1.575122E7,1.6780195E7,3
-General Fund,Fire & Rescue,Fire Marshals Office Division,,,,1100659.83,1192454.3599999996,1328666.6900000002,1304944.0,1208124.0,3
-General Fund,Fire & Rescue Total,,,,,1.821727114E7,1.8392042220000006E7,1.8600323309999995E7,1.9579293E7,2.0777981E7,2
-General Fund,Non-Departmental,Employee Health Contributions,,,,3370898.7,0.0,0.0,0.0,0.0,3
-General Fund,Non-Departmental,Non-Divisional,,,,1.309077726E7,1.0942791770000003E7,1.9538902830000006E7,1.1962677E7,1.203616E7,3
-General Fund,Non-Departmental,Inter-Extra Goverment Services,,,,1723695.67,1750214.59,1903463.73,2066303.0,1904947.0,3
-General Fund,Non-Departmental Total,,,,,1.818537163E7,1.2693006360000003E7,2.1442366560000006E7,1.402898E7,1.3941107E7,2
-General Fund,Finance,Risk Management Division,,,,250723.22999999998,234592.25,172901.19,199760.0,323525.0,3
-General Fund,Finance,Budget Division,,,,193793.53000000003,184500.41999999998,186005.09,180336.0,260978.0,3
-General Fund,Finance,Accounting Division,,,,1424301.96,1436836.6000000003,1145252.3800000001,1221732.0,1326372.0,3
-General Fund,Finance,Purchasing Operations Division,,,,377708.58,354718.07,607483.5900000001,278846.0,334570.0,3
-General Fund,Finance,Group Health Life & Dental,,,,21.81,-4470.36,0.0,0.0,0.0,3
-General Fund,Finance,Finance Administration,,,,338342.24999999994,306469.7,469473.78,494185.0,616174.0,3
-General Fund,Finance,Purchasing Central Stores,,,,145381.38,146325.25999999998,145693.89,151851.0,164840.0,3
-General Fund,Finance Total,,,,,2730272.7399999998,2658971.94,2726809.9199999995,2526710.0,3026459.0,2
-General Fund,Legal,Legal Division,,,,682907.26,631889.33,646661.31,665063.0,806748.0,3
-General Fund,Legal Total,,,,,682907.26,631889.33,646661.31,665063.0,806748.0,2
-General Fund,Planning & Development,Planning Services Division,,,,1550413.24,1523992.94,1433462.2,906926.0,867970.0,3
-General Fund,Planning & Development,Community Development Division,,,,289022.82,220172.05,255360.36999999997,308080.0,169710.0,3
-General Fund,Planning & Development,Historic Resources Division,,,,148585.22999999998,143992.84,125279.14,129302.0,146543.0,3
-General Fund,Planning & Development Total,,,,,1988021.29,1888157.8299999998,1814101.7099999997,1344308.0,1184223.0,2
-General Fund,Economic Development,Economic Development Division,,,,403457.9600000001,468054.94000000006,497556.87999999995,438457.0,764515.0,3
-General Fund,Economic Development Total,,,,,403457.9600000001,468054.94000000006,497556.87999999995,438457.0,764515.0,2
-General Fund,Human Resources,Health Clinic Services,,,,241159.54000000004,221494.11,7387.27,0.0,0.0,3
-General Fund,Human Resources,Human Resources Administration,,,,1105245.2000000002,945589.7299999999,861258.5400000002,1110706.0,1235844.0,3
-General Fund,Human Resources,Organizational Development,,,,164542.27000000002,151867.34,149476.96,165579.0,183857.0,3
-General Fund,Human Resources Total,,,,,1510947.0100000002,1318951.1800000002,1018122.7700000001,1276285.0,1419701.0,2
-General Fund,Civic Center,Civic Center Capital Division,,,,0.0,0.0,0.0,0.0,0.0,3
-General Fund,Civic Center Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-General Fund,Parks Rec & Cultural Arts,Community Program,,,,0.0,0.0,0.0,0.0,574842.0,3
-General Fund,Parks Rec & Cultural Arts,Parks Maintenance Division,,,,2619675.4800000004,2869668.1100000003,2868158.639999999,3129784.0,3527543.0,3
-General Fund,Parks Rec & Cultural Arts,Specialized Facilities Div,,,,1764991.1899999997,1601228.1700000004,1567817.6600000001,1437787.0,1440180.0,3
-General Fund,Parks Rec & Cultural Arts,Business Services Division,,,,619738.26,1138207.4900000002,995187.4100000001,1054927.0,1046290.0,3
-General Fund,Parks Rec & Cultural Arts,Recreation Division,,,,3231242.4599999995,2273564.0800000005,2382374.9400000004,2378057.0,2401943.0,3
-General Fund,Parks Rec & Cultural Arts,Planning & Development Div,,,,185673.89,205692.68,156161.44,210208.0,213075.0,3
-General Fund,Parks Rec & Cultural Arts,Parks Administration Division,,,,403317.69999999995,435553.66,372740.16,412383.0,409664.0,3
-General Fund,Parks Rec & Cultural Arts,Cultural Arts Division,,,,275544.56,222825.76,894164.7499999999,752951.0,40000.0,3
-General Fund,Parks Rec & Cultural Arts Total,,,,,9100183.540000001,8746739.950000001,9236605.0,9376097.0,9653537.0,2
-General Fund,Information Technology,IT Administration Division,,,,300318.31999999995,273751.36,256357.93,229768.0,249882.0,3
-General Fund,Information Technology,Information Services,,,,16156.510000000002,9992.449999999999,43.71,0.0,0.0,3
-General Fund,Information Technology,IT Support Services Division,,,,567823.3300000001,611619.44,583653.0,1055652.0,690704.0,3
-General Fund,Information Technology,Technical Services Division,,,,1119323.67,909715.5200000003,1165192.2400000002,755271.0,839649.0,3
-General Fund,Information Technology,GIS Appl Services Division,,,,546832.2300000001,597793.32,669829.2999999999,827946.0,759429.0,3
-General Fund,Information Technology Total,,,,,2550454.06,2402872.0900000012,2675076.1799999992,2868637.0,2539664.0,2
-General Fund,Transportation,Transportation Admin Div,,,,466644.69,226359.43,179905.66,197880.0,222857.0,3
-General Fund,Transportation,Traffic Engineering Division,,,,656649.3200000001,597624.41,613769.17,775648.0,824068.0,3
-General Fund,Transportation,Transportation Planning Div,,,,224491.23,246630.37999999998,147586.29,222524.0,184002.0,3
-General Fund,Transportation Total,,,,,1347785.2400000002,1070614.22,941261.12,1196052.0,1230927.0,2
-General Fund,Public Works,Public Works Administration,,,,1184911.64,1111796.95,1048579.2,922718.0,1303580.0,3
-General Fund,Public Works,Sanitation Division,,,,4704699.17,4687742.3100000005,4674727.5,4945325.0,4988421.0,3
-General Fund,Public Works,Streets & Sidewalks Division,,,,2690076.3800000004,2239558.7800000003,2495897.330000001,3721364.0,3059182.0,3
-General Fund,Public Works,Street Lighting Division,,,,1774908.5999999999,1693237.1800000002,1608526.0899999999,1696139.0,1356000.0,3
-General Fund,Public Works,Engineering Services Division,,,,1008233.0200000003,1795661.9200000004,1331900.89,1609225.0,1600707.0,3
-General Fund,Public Works Total,,,,,1.136282881E7,1.1527997139999997E7,1.1159631010000002E7,1.2894771E7,1.230789E7,2
-General Fund,Building Safety,Permitting & Inspections Div,,,,2541229.98,2536589.31,2490040.8800000004,2858310.0,3596839.0,3
-General Fund,Building Safety Total,,,,,2541229.98,2536589.31,2490040.8800000004,2858310.0,3596839.0,2
-General Fund,Police,Criminal Investigations Div,,,,2584278.02,2774687.17,2830196.4600000004,2997038.0,3485644.0,3
-General Fund,Police,Police Support Division,,,,3386805.7300000004,3555216.67,3616221.4999999995,0.0,0.0,3
-General Fund,Police,FICA Tax Exp-Police Sep Allow,,,,0.0,466060.02,471779.71,606228.0,607146.0,3
-General Fund,Police,Police Administration Division,,,,1948461.4000000004,1571880.5,1627103.96,7207683.0,7868669.0,3
-General Fund,Police,Patrol Division,,,,1.093002459E7,1.194337484E7,1.1527594099999998E7,1.1806352E7,1.2294322E7,3
-General Fund,Police Total,,,,,1.884956974E7,2.03112192E7,2.0072895729999997E7,2.2617301E7,2.4255781E7,2
-General Fund,Administration Services,Governing Body Division,,,,168742.86,176142.44999999998,177620.45,170808.0,176716.0,3
-General Fund,Administration Services,Fleet Management Division,,,,1041111.6700000002,247091.47,93564.7600000001,314600.0,195509.0,3
-General Fund,Administration Services,Building Maintenance,,,,628854.27,1036235.02,1412467.2799999998,1939550.0,1907166.0,3
-General Fund,Administration Services,City Manager,,,,651961.87,617060.57,577616.7599999999,649448.0,715252.0,3
-General Fund,Administration Services,Administration,,,,0.0,85495.32999999999,0.0,0.0,0.0,3
-General Fund,Administration Services,City Clerk Division,,,,107774.74,111318.63,111031.42,115482.0,119464.0,3
-General Fund,Administration Services,Community Relations,,,,530797.33,338927.9,353606.7,409678.0,366784.0,3
-General Fund,Administration Services,Sustainability Division,,,,5597.209999999999,39272.95,115800.86,129922.0,170655.0,3
-General Fund,Administration Services,City Hall Operations,,,,275235.96,417620.23,495434.64,462012.0,391036.0,3
-General Fund,Administration Services Total,,,,,3410075.909999999,3069164.5500000003,3337142.87,4191500.0,4042582.0,2
-General Fund Total,,,,,,9.288037630999997E7,8.771627025999999E7,9.66585952499999E7,9.5861764E7,9.9547954E7,1
-Property and Liability Fund,Finance,CAFR Preparation,,,,0.0,0.0,0.0,0.0,0.0,3
-Property and Liability Fund,Finance Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Property and Liability Fund,Administration Services,General Insurance and Bonds,,,,0.0,0.0,0.0,2351475.0,2204297.0,3
-Property and Liability Fund,Administration Services Total,,,,,0.0,0.0,0.0,2351475.0,2204297.0,2
-Property and Liability Fund Total,,,,,,0.0,0.0,0.0,2351475.0,2204297.0,1
-Golf Course Fund,Parks Rec & Cultural Arts,Recreation Division,,,,0.0,0.0,0.0,0.0,0.0,3
-Golf Course Fund,Parks Rec & Cultural Arts,CAFR Preparation,,,,0.0,0.0,0.0,0.0,0.0,3
-Golf Course Fund,Parks Rec & Cultural Arts Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Golf Course Fund Total,,,,,,0.0,0.0,0.0,0.0,0.0,1
-Workers' Compensation Fund,Finance,CAFR Preparation,,,,0.0,0.0,0.0,0.0,0.0,3
-Workers' Compensation Fund,Finance,Workers Compensation,,,,0.0,0.0,0.0,1090300.0,1125000.0,3
-Workers' Compensation Fund,Finance Total,,,,,0.0,0.0,0.0,1090300.0,1125000.0,2
-Workers' Compensation Fund Total,,,,,,0.0,0.0,0.0,1090300.0,1125000.0,1
-Civic Center Fund,Civic Center,Concessions Division,,,,379536.11999999994,616962.23,459909.42,622775.0,875013.0,3
-Civic Center Fund,Civic Center,Civic Center Administration,,,,779681.1699999997,795024.75,1267278.75,1451084.0,1886070.0,3
-Civic Center Fund,Civic Center,Event Personnel Division,,,,156973.66,199028.59999999998,177238.36,177253.0,189340.0,3
-Civic Center Fund,Civic Center,CAFR Preparation,,,,-1700482.26,12700.919999999925,-6238233.38,0.0,0.0,3
-Civic Center Fund,Civic Center,Civic Center Capital Division,,,,293764.73,0.0,0.0,0.0,0.0,3
-Civic Center Fund,Civic Center,Operations Division,,,,395820.82999999996,411782.27999999997,459462.85,489047.0,370095.0,3
-Civic Center Fund,Civic Center,Ticket Office,,,,140232.41,157248.03999999998,163443.27,138274.0,147980.0,3
-Civic Center Fund,Civic Center Total,,,,,445526.6600000002,2192746.8200000003,-3710900.730000001,2878433.0,3468498.0,2
-Civic Center Fund Total,,,,,,445526.6600000002,2192746.8200000003,-3710900.730000001,2878433.0,3468498.0,1
-Festivals Fund,Parks Rec & Cultural Arts,Cultural Arts Division,,,,0.0,0.0,0.0,0.0,0.0,3
-Festivals Fund,Parks Rec & Cultural Arts Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Festivals Fund Total,,,,,,0.0,0.0,0.0,0.0,0.0,1
-Insurance Fund,Finance,Group Health Life & Dental,,,,0.0,0.0,0.0,0.0,0.0,3
-Insurance Fund,Finance Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Insurance Fund,Police,Police Separation Allowance,,,,0.0,0.0,0.0,0.0,0.0,3
-Insurance Fund,Police Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Insurance Fund Total,,,,,,0.0,0.0,0.0,0.0,0.0,1
-Health Insurance Fund,No Dept,CAFR Preparation,,,,0.0,0.0,0.0,0.0,0.0,3
-Health Insurance Fund,No Dept Total,,,,,0.0,0.0,0.0,0.0,0.0,2
+Workers' Compensation Fund,Finance,Workers Compensation,,,,0.0,0.0,0.0,1090300.0,1325000.0,3
+Workers' Compensation Fund,Finance Total,,,,,0.0,0.0,0.0,1090300.0,1325000.0,2
+Workers' Compensation Fund Total,,,,,,0.0,0.0,0.0,1090300.0,1325000.0,1
+Civic Center Fund,Civic Center,Concessions Division,,,,369521.91,616962.23,451255.92,622775.0,875013.0,3
+Civic Center Fund,Civic Center,Civic Center Administration,,,,750500.5399999998,764983.73,953982.75,1451084.0,1886070.0,3
+Civic Center Fund,Civic Center,Event Personnel Division,,,,156973.66000000003,199028.59999999998,173982.34,177253.0,189340.0,3
+Civic Center Fund,Civic Center,Operations Division,,,,395082.3499999999,411782.27999999997,440622.97,489047.0,370095.0,3
+Civic Center Fund,Civic Center,Ticket Office,,,,129290.21,157248.04,157802.77,138274.0,147980.0,3
+Civic Center Fund,Civic Center Total,,,,,1801368.6700000002,2150004.88,2177646.7500000005,2878433.0,3468498.0,2
+Civic Center Fund Total,,,,,,1801368.6700000002,2150004.88,2177646.7500000005,2878433.0,3468498.0,1
+Street Cut Utility Fund,Public Works,Street Cuts Division,,,,0.0,1181842.21,1447759.4500000002,1493808.0,1650800.0,3
+Street Cut Utility Fund,Public Works Total,,,,,0.0,1181842.21,1447759.4500000002,1493808.0,1650800.0,2
+Street Cut Utility Fund Total,,,,,,0.0,1181842.21,1447759.4500000002,1493808.0,1650800.0,1
 Health Insurance Fund,Human Resources,Health Clinic Services,,,,0.0,0.0,0.0,599395.0,596019.0,3
-Health Insurance Fund,Human Resources,Group Health Life & Dental,,,,0.0,0.0,0.0,1.3320533E7,1.3366841E7,3
-Health Insurance Fund,Human Resources Total,,,,,0.0,0.0,0.0,1.3919928E7,1.396286E7,2
-Health Insurance Fund Total,,,,,,0.0,0.0,0.0,1.3919928E7,1.396286E7,1
-Parking Services Fund,Transportation,Parking Services Division,,,,699377.59,1336399.0,4229383.199999999,1095254.0,988686.0,3
-Parking Services Fund,Transportation,CAFR Preparation,,,,-415758.95,-5421028.87,-1.6229760440000001E7,0.0,0.0,3
-Parking Services Fund,Transportation,Parking Garage Divison,,,,1186927.81,1163647.9100000001,1.2131695959999999E7,2761446.0,3039121.0,3
-Parking Services Fund,Transportation Total,,,,,1470546.45,-2920981.96,131318.7199999998,3856700.0,4027807.0,2
-Parking Services Fund Total,,,,,,1470546.45,-2920981.96,131318.7199999998,3856700.0,4027807.0,1
-Water Services Fund,Water,Water General Operations Div,,,,3.169635616E7,1.817488889E7,1.749041695E7,2.8312176E7,2.0359724E7,3
-Water Services Fund,Water,Construction Crew Division,,,,521800.83,576650.26,527123.2,0.0,0.0,3
-Water Services Fund,Water,Water Administration,,,,674119.48,728253.78,841142.38,1044675.0,1069666.0,3
-Water Services Fund,Water,Water Engineering Division,,,,581105.96,575412.04,616637.1499999999,643211.0,682710.0,3
-Water Services Fund,Water,Water Production Division,,,,4815024.070000001,4453304.369999999,4817487.290000002,5011622.0,5327177.0,3
-Water Services Fund,Water,Maintenance & Repairs Division,,,,3987123.0300000003,3692446.9899999998,3593753.6200000006,4322800.0,3760188.0,3
-Water Services Fund,Water,CAFR Preparation,,,,-1.562580385E7,2562651.4099999988,1637202.8200000026,0.0,0.0,3
-Water Services Fund,Water,Meter Services Division,,,,908562.71,1348824.17,1229389.3399999999,1315508.0,1817143.0,3
-Water Services Fund,Water,Water Operating Equipment Div,,,,1058858.77,296739.89,267494.72,258480.0,254728.0,3
-Water Services Fund,Water,Customer Service Division,,,,1215616.91,1201659.01,1429219.3,1391474.0,1385022.0,3
-Water Services Fund,Water,Water Conservation Division,,,,11977.07,19497.07,2996.1,4400.0,0.0,3
-Water Services Fund,Water Total,,,,,2.9844741139999997E7,3.363032787999998E7,3.2452862870000005E7,4.2304346E7,3.4656358E7,2
-Water Services Fund Total,,,,,,2.9844741139999997E7,3.363032787999998E7,3.2452862870000005E7,4.2304346E7,3.4656358E7,1
-Stormwater Capital Projects Fd,Public Works,Stormwater Admin Division,,,,0.0,0.0,0.0,0.0,0.0,3
-Stormwater Capital Projects Fd,Public Works Total,,,,,0.0,0.0,0.0,0.0,0.0,2
-Stormwater Capital Projects Fd Total,,,,,,0.0,0.0,0.0,0.0,0.0,1
-Transit Fund,Transportation,CAFR Preparation,,,,-371189.89,-2117563.6799999997,514664.73000000004,0.0,0.0,3
-Transit Fund,Transportation,Transit Operations Division,,,,4823993.840000001,4715472.59,4639428.37,4801568.0,5354440.0,3
-Transit Fund,Transportation,Transit Administration Div,,,,735460.26,495678.79,766067.78,967720.0,1013711.0,3
-Transit Fund,Transportation Total,,,,,5188264.210000001,3093587.7,5920160.880000001,5769288.0,6368151.0,2
-Transit Fund Total,,,,,,5188264.210000001,3093587.7,5920160.880000001,5769288.0,6368151.0,1
-REVENUES TOTAL,,,,,,1.2982945476999992E8,1.2755863917999995E8,1.3449810281E8,1.73174765E8,1.72206111E8,0
+Health Insurance Fund,Human Resources,Group Health Life & Dental,,,,0.0,0.0,0.0,1.3320533E7,1.3391587E7,3
+Health Insurance Fund,Human Resources Total,,,,,0.0,0.0,0.0,1.3919928E7,1.3987606E7,2
+Health Insurance Fund Total,,,,,,0.0,0.0,0.0,1.3919928E7,1.3987606E7,1
+Parking Services Fund,Transportation,Parking Services Division,,,,683596.7799999999,706372.13,4198481.369999999,1095254.0,988686.0,3
+Parking Services Fund,Transportation,Parking Garage Divison,,,,843497.5099999999,1157587.6500000001,1428642.2500000002,2761446.0,3039121.0,3
+Parking Services Fund,Transportation Total,,,,,1527094.29,1863959.7799999996,5627123.619999999,3856700.0,4027807.0,2
+Parking Services Fund Total,,,,,,1527094.29,1863959.7799999996,5627123.619999999,3856700.0,4027807.0,1
+Stormwater Fund,Public Works,Stormwater Admin Division,,,,0.0,2699884.6000000006,2546953.32,3648723.0,5261372.0,3
+Stormwater Fund,Public Works Total,,,,,0.0,2699884.6000000006,2546953.32,3648723.0,5261372.0,2
+Stormwater Fund Total,,,,,,0.0,2699884.6000000006,2546953.32,3648723.0,5261372.0,1
+Water Services Fund,Water,Water General Operations Div,,,,1.7330397869999997E7,1.671425189E7,1.691610695E7,2.8312176E7,2.0359724E7,3
+Water Services Fund,Water,Water Administration,,,,674109.48,717008.1699999999,817358.03,1044675.0,1069666.0,3
+Water Services Fund,Water,Water Engineering Division,,,,581105.96,575412.04,588356.77,643211.0,682710.0,3
+Water Services Fund,Water,Water Production Division,,,,4752941.100000001,4347083.309999999,4675262.480000002,5011622.0,5327177.0,3
+Water Services Fund,Water,Maintenance & Repairs Division,,,,3929750.7199999997,3651924.34,3496058.5300000003,4322800.0,3760188.0,3
+Water Services Fund,Water,Meter Services Division,,,,903062.41,1342839.39,1162159.8699999999,1315508.0,1817143.0,3
+Water Services Fund,Water,Water Operating Equipment Div,,,,0.0,296739.89,267494.72,258480.0,254728.0,3
+Water Services Fund,Water,Customer Service Division,,,,1212962.7,1190608.5899999999,1296652.98,1391474.0,1385022.0,3
+Water Services Fund,Water,Water Conservation Division,,,,0.0,1684.13,1014.0999999999999,4400.0,0.0,3
+Water Services Fund,Water Total,,,,,2.938433024E7,2.8837551750000004E7,2.922046443000001E7,4.2304346E7,3.4656358E7,2
+Water Services Fund Total,,,,,,2.938433024E7,2.8837551750000004E7,2.922046443000001E7,4.2304346E7,3.4656358E7,1
+Property and Liability Fund,Administration Services,General Insurance and Bonds,,,,0.0,0.0,0.0,2351475.0,2004297.0,3
+Property and Liability Fund,Administration Services Total,,,,,0.0,0.0,0.0,2351475.0,2004297.0,2
+Property and Liability Fund Total,,,,,,0.0,0.0,0.0,2351475.0,2004297.0,1
+Mass Transit Fund,Transportation,Transit Operations Division,,,,4453494.9,4710442.59,4632693.54,4801568.0,5354440.0,3
+Mass Transit Fund,Transportation,Transit Administration Div,,,,687502.01,495426.79,765992.78,967720.0,1013711.0,3
+Mass Transit Fund,Transportation Total,,,,,5140996.910000001,5205869.38,5398686.32,5769288.0,6368151.0,2
+Mass Transit Fund Total,,,,,,5140996.910000001,5205869.38,5398686.32,5769288.0,6368151.0,1
+General Fund,Fire & Rescue,Fire Support Services Division,,,,2008767.1700000002,2222435.0300000003,2527827.92,2523129.0,2789662.0,3
+General Fund,Fire & Rescue,Emergency Response Division,,,,1.4972156869999997E7,1.492996586E7,1.4706934590000002E7,1.575122E7,1.6780195E7,3
+General Fund,Fire & Rescue,Fire Marshals Office Division,,,,1100659.83,1171987.42,1325717.1400000001,1304944.0,1208124.0,3
+General Fund,Fire & Rescue Total,,,,,1.8081583870000005E7,1.8324388310000002E7,1.856047965E7,1.9579293E7,2.0777981E7,2
+General Fund,Non-Departmental,Non-Divisional,,,,1.289605126E7,7975659.300000002,8176549.609999999,1.1962677E7,1.203616E7,3
+General Fund,Non-Departmental,Inter-Extra Goverment Services,,,,1723695.67,1750214.59,1903463.73,2066303.0,1904947.0,3
+General Fund,Non-Departmental Total,,,,,1.461974693E7,9725873.89,1.0080013340000002E7,1.402898E7,1.3941107E7,2
+General Fund,Information Technology,IT Administration Division,,,,283664.16,265824.95999999996,238088.38,229768.0,249882.0,3
+General Fund,Information Technology,IT Support Services Division,,,,562969.34,611619.4400000001,569142.85,1055652.0,690704.0,3
+General Fund,Information Technology,Technical Services Division,,,,909953.0,749668.55,734461.8400000001,755271.0,839649.0,3
+General Fund,Information Technology,GIS Appl Services Division,,,,546832.2300000001,597793.32,669829.2999999999,827946.0,759429.0,3
+General Fund,Information Technology Total,,,,,2303418.73,2224906.2700000005,2211522.3699999996,2868637.0,2539664.0,2
+General Fund,Parks Rec & Cultural Arts,Community Program,,,,0.0,0.0,0.0,0.0,574842.0,3
+General Fund,Parks Rec & Cultural Arts,Specialized Facilities Div,,,,1202025.48,1350747.79,1383837.24,1437787.0,1440180.0,3
+General Fund,Parks Rec & Cultural Arts,Parks Maintenance Division,,,,2454891.4800000004,2788035.4800000004,2845396.4399999995,3129784.0,3527543.0,3
+General Fund,Parks Rec & Cultural Arts,Business Services Division,,,,602108.63,1014156.76,993986.1600000001,1054927.0,1046290.0,3
+General Fund,Parks Rec & Cultural Arts,Recreation Division,,,,118838.84,959510.7100000002,2155934.9299999997,2378057.0,2401943.0,3
+General Fund,Parks Rec & Cultural Arts,Parks Administration Division,,,,318755.97000000003,396278.25999999995,341711.92,412383.0,409664.0,3
+General Fund,Parks Rec & Cultural Arts,Planning & Development Div,,,,185673.89,205447.28999999998,156115.38999999998,210208.0,213075.0,3
+General Fund,Parks Rec & Cultural Arts,Cultural Arts Division,,,,273572.74999999994,222716.74000000002,846440.31,752951.0,40000.0,3
+General Fund,Parks Rec & Cultural Arts Total,,,,,5155867.040000001,6936893.029999997,8723422.389999999,9376097.0,9653537.0,2
+General Fund,Transportation,Transportation Admin Div,,,,436441.66,226359.43,179905.66000000003,197880.0,222857.0,3
+General Fund,Transportation,Traffic Engineering Division,,,,625334.09,592873.68,613480.8999999999,775648.0,824068.0,3
+General Fund,Transportation,Street Lighting Division,,,,0.0,0.0,0.0,1696139.0,1356000.0,3
+General Fund,Transportation,Transportation Planning Div,,,,128359.43000000001,152692.51,144711.53000000003,222524.0,184002.0,3
+General Fund,Transportation Total,,,,,1190135.18,971925.62,938098.0899999999,2892191.0,2586927.0,2
+General Fund,Finance,Risk Management Division,,,,247563.99999999997,231942.58000000002,170895.77,199760.0,323525.0,3
+General Fund,Finance,Budget Division,,,,193793.53000000003,184500.42,186005.09,180336.0,260978.0,3
+General Fund,Finance,Accounting Division,,,,1269043.17,1432355.7700000003,1135605.22,1221732.0,1326372.0,3
+General Fund,Finance,Purchasing Operations Division,,,,345872.09,336563.69,338650.87,278846.0,334570.0,3
+General Fund,Finance,Finance Administration,,,,338240.68999999994,306377.15,469473.78,494185.0,616174.0,3
+General Fund,Finance,Purchasing Central Stores,,,,144362.62,146205.49,144290.59,151851.0,164840.0,3
+General Fund,Finance Total,,,,,2538876.0999999996,2637945.1000000006,2444921.32,2526710.0,3026459.0,2
+General Fund,Public Works,Public Works Administration,,,,1171046.14,1096262.39,1044637.18,922718.0,1303580.0,3
+General Fund,Public Works,Sanitation Division,,,,1559981.27,4534425.350000001,4653224.24,4945325.0,4988421.0,3
+General Fund,Public Works,Streets & Sidewalks Division,,,,2225055.710000001,1507740.2700000005,1292475.32,3721364.0,3059182.0,3
+General Fund,Public Works,Street Lighting Division,,,,1774908.5999999999,1693237.1800000002,1608526.0899999999,1632800.0,0.0,3
+General Fund,Public Works,Engineering Services Division,,,,915830.7100000002,1502697.2200000002,1316856.65,1609225.0,1600707.0,3
+General Fund,Public Works Total,,,,,7646822.43,1.0334362409999996E7,9915719.480000002,1.2831432E7,1.095189E7,2
+General Fund,Legal,Legal Division,,,,662661.18,625137.72,646661.31,665063.0,806748.0,3
+General Fund,Legal Total,,,,,662661.18,625137.72,646661.31,665063.0,806748.0,2
+General Fund,Planning & Development,Planning Services Division,,,,1547970.83,1523881.05,1433462.2,906926.0,867970.0,3
+General Fund,Planning & Development,Community Development Division,,,,261495.79000000004,206682.72999999998,236626.03,308080.0,169710.0,3
+General Fund,Planning & Development,Historic Resources Division,,,,144548.84,143492.84,125279.14,129302.0,146543.0,3
+General Fund,Planning & Development Total,,,,,1954015.46,1874056.6199999999,1795367.37,1344308.0,1184223.0,2
+General Fund,Building Safety,Permitting & Inspections Div,,,,2538854.75,2536589.31,2489940.8800000004,2858310.0,3596839.0,3
+General Fund,Building Safety Total,,,,,2538854.75,2536589.31,2489940.8800000004,2858310.0,3596839.0,2
+General Fund,Economic Development,Economic Development Division,,,,399625.9700000001,465950.26,488116.1099999999,438457.0,764515.0,3
+General Fund,Economic Development Total,,,,,399625.9700000001,465950.26,488116.1099999999,438457.0,764515.0,2
+General Fund,Human Resources,Human Resources Administration,,,,1047870.4,927339.9699999999,858016.5400000002,1110706.0,1235844.0,3
+General Fund,Human Resources,Organizational Development,,,,121559.34000000001,151837.14,149476.96,165579.0,183857.0,3
+General Fund,Human Resources Total,,,,,1169429.74,1079177.1099999999,1007493.5000000001,1276285.0,1419701.0,2
+General Fund,Administration Services,Governing Body Division,,,,123212.14999999998,150000.90000000002,167620.44999999998,170808.0,176716.0,3
+General Fund,Administration Services,Fleet Management Division,,,,168338.38999999978,204188.43999999992,45820.579999999914,314600.0,195509.0,3
+General Fund,Administration Services,Building Maintenance,,,,614088.06,1016643.98,1411296.06,1939550.0,1907166.0,3
+General Fund,Administration Services,City Manager,,,,624562.3999999999,591368.16,550542.66,649448.0,715252.0,3
+General Fund,Administration Services,City Clerk Division,,,,107774.74,111318.63,111031.42000000001,115482.0,119464.0,3
+General Fund,Administration Services,Community Relations,,,,516423.29999999993,338217.75,350924.8,409678.0,366784.0,3
+General Fund,Administration Services,Sustainability Division,,,,5597.209999999999,37915.98,93960.86,129922.0,170655.0,3
+General Fund,Administration Services,City Hall Operations,,,,273935.96,413090.98,467208.79000000004,462012.0,391036.0,3
+General Fund,Administration Services Total,,,,,2433932.2100000014,2862744.8199999994,3198405.619999999,4191500.0,4042582.0,2
+General Fund,Police,Criminal Investigations Div,,,,2503843.88,2699819.62,2750718.5000000005,2997038.0,3485644.0,3
+General Fund,Police,FICA Tax Exp-Police Sep Allow,,,,0.0,466060.02,471725.2,606228.0,607146.0,3
+General Fund,Police,Police Administration Division,,,,1547343.7300000002,1547991.75,1604156.3499999996,7207683.0,7868669.0,3
+General Fund,Police,Patrol Division,,,,1.0559881549999999E7,1.157548597E7,1.1141311449999997E7,1.1806352E7,1.2294322E7,3
+General Fund,Police Total,,,,,1.4611069159999998E7,1.6289357360000001E7,1.5967911500000002E7,2.2617301E7,2.4255781E7,2
+General Fund Total,,,,,,7.530603875E7,7.688930782999997E7,7.846807292999993E7,9.7494564E7,9.9547954E7,1
+REVENUES TOTAL,,,,,,1.131598288599999E8,1.1882842043000005E8,1.2488670681999983E8,1.74807565E8,1.72297843E8,0
