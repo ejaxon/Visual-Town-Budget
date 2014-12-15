@@ -99,7 +99,7 @@
 		    <li>Capital outlay is budgeted to decrease by 33.6%</li>
 		  </ul>
                 </p>
-                <a href="../docs/Expenditure_summary detail.pdf" target="_blank" class="border-button">
+                <a href="../docs/Expenditure_summary_detail.pdf" target="_blank" class="border-button">
 		  Read expenditure details
                 </a>
                 <a href="../docs/Adopted_Budget_Rev_2014-15.pdf" target="_blank" class="border-button" style="float:right;">
