@@ -41,7 +41,7 @@ avb.currentNode = {}; // currently selected node
 // first datapoint
 avb.firstYear = null;
 // last datapoint
-avb.lastYear = null;
+avb.lastYear = 2014;
 avb.currentYear = new Date().getFullYear();
 avb.thisYear = avb.currentYear;
 
